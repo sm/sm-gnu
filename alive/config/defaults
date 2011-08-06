@@ -1,6 +1,4 @@
-version=
-base_url=http://ftp.gnu.org/gnu/alive
+version=1.4.0
+base_url=http://download.savannah.gnu.org/releases/alive/
 #base_url=http://alpha.gnu.org/gnu/alive
-archive_format=tar.bz2
 website_url=http://www.gnu.org/software/alive/
-docs_url=http://www.gnu.org/software/alive/man.html
