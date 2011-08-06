@@ -1,0 +1,6 @@
+version=20110722
+base_url=http://ftp.gnu.org/gnu/xhippo
+#base_url=http://alpha.gnu.org/gnu/xhippo
+archive_format=tar.bz2
+website_url=http://www.gnu.org/software/xhippo/
+docs_url=http://www.gnu.org/software/xhippo/man.html

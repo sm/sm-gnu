@@ -1,0 +1,6 @@
+version=20110722
+base_url=http://ftp.gnu.org/gnu/paxutils
+#base_url=http://alpha.gnu.org/gnu/paxutils
+archive_format=tar.bz2
+website_url=http://www.gnu.org/software/paxutils/
+docs_url=http://www.gnu.org/software/paxutils/man.html

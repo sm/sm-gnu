@@ -1,0 +1,6 @@
+version=20110722
+base_url=http://ftp.gnu.org/gnu/gengen
+#base_url=http://alpha.gnu.org/gnu/gengen
+archive_format=tar.bz2
+website_url=http://www.gnu.org/software/gengen/
+docs_url=http://www.gnu.org/software/gengen/man.html

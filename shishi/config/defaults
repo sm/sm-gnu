@@ -1,0 +1,6 @@
+version=20110722
+base_url=http://ftp.gnu.org/gnu/shishi
+#base_url=http://alpha.gnu.org/gnu/shishi
+archive_format=tar.bz2
+website_url=http://www.gnu.org/software/shishi/
+docs_url=http://www.gnu.org/software/shishi/man.html

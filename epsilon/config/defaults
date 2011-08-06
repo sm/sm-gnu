@@ -1,0 +1,6 @@
+version=20110722
+base_url=http://ftp.gnu.org/gnu/epsilon
+#base_url=http://alpha.gnu.org/gnu/epsilon
+archive_format=tar.bz2
+website_url=http://www.gnu.org/software/epsilon/
+docs_url=http://www.gnu.org/software/epsilon/man.html

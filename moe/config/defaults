@@ -1,0 +1,6 @@
+version=20110722
+base_url=http://ftp.gnu.org/gnu/moe
+#base_url=http://alpha.gnu.org/gnu/moe
+archive_format=tar.bz2
+website_url=http://www.gnu.org/software/moe/
+docs_url=http://www.gnu.org/software/moe/man.html

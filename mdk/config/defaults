@@ -1,0 +1,6 @@
+version=20110722
+base_url=http://ftp.gnu.org/gnu/mdk
+#base_url=http://alpha.gnu.org/gnu/mdk
+archive_format=tar.bz2
+website_url=http://www.gnu.org/software/mdk/
+docs_url=http://www.gnu.org/software/mdk/man.html

@@ -1,0 +1,6 @@
+version=20110722
+base_url=http://ftp.gnu.org/gnu/pexec
+#base_url=http://alpha.gnu.org/gnu/pexec
+archive_format=tar.bz2
+website_url=http://www.gnu.org/software/pexec/
+docs_url=http://www.gnu.org/software/pexec/man.html

@@ -1,0 +1,6 @@
+version=20110722
+base_url=http://ftp.gnu.org/gnu/mig
+#base_url=http://alpha.gnu.org/gnu/mig
+archive_format=tar.bz2
+website_url=http://www.gnu.org/software/mig/
+docs_url=http://www.gnu.org/software/mig/man.html

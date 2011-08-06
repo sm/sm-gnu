@@ -1,0 +1,6 @@
+version=20110722
+base_url=http://ftp.gnu.org/gnu/chess
+#base_url=http://alpha.gnu.org/gnu/chess
+archive_format=tar.bz2
+website_url=http://www.gnu.org/software/chess/
+docs_url=http://www.gnu.org/software/chess/man.html

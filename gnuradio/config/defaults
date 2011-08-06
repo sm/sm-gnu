@@ -1,0 +1,6 @@
+version=20110722
+base_url=http://ftp.gnu.org/gnu/gnuradio
+#base_url=http://alpha.gnu.org/gnu/gnuradio
+archive_format=tar.bz2
+website_url=http://www.gnu.org/software/gnuradio/
+docs_url=http://www.gnu.org/software/gnuradio/man.html

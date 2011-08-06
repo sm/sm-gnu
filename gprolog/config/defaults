@@ -1,0 +1,6 @@
+version=20110722
+base_url=http://ftp.gnu.org/gnu/gprolog
+#base_url=http://alpha.gnu.org/gnu/gprolog
+archive_format=tar.bz2
+website_url=http://www.gnu.org/software/gprolog/
+docs_url=http://www.gnu.org/software/gprolog/man.html

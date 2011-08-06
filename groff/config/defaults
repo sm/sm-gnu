@@ -1,0 +1,6 @@
+version=20110722
+base_url=http://ftp.gnu.org/gnu/groff
+#base_url=http://alpha.gnu.org/gnu/groff
+archive_format=tar.bz2
+website_url=http://www.gnu.org/software/groff/
+docs_url=http://www.gnu.org/software/groff/man.html

@@ -1,0 +1,6 @@
+version=20110722
+base_url=http://ftp.gnu.org/gnu/trans-coord
+#base_url=http://alpha.gnu.org/gnu/trans-coord
+archive_format=tar.bz2
+website_url=http://www.gnu.org/software/trans-coord/
+docs_url=http://www.gnu.org/software/trans-coord/man.html

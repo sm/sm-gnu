@@ -1,0 +1,6 @@
+version=20110722
+base_url=http://ftp.gnu.org/gnu/tar
+#base_url=http://alpha.gnu.org/gnu/tar
+archive_format=tar.bz2
+website_url=http://www.gnu.org/software/tar/
+docs_url=http://www.gnu.org/software/tar/man.html

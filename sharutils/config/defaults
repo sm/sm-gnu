@@ -1,0 +1,6 @@
+version=20110722
+base_url=http://ftp.gnu.org/gnu/sharutils
+#base_url=http://alpha.gnu.org/gnu/sharutils
+archive_format=tar.bz2
+website_url=http://www.gnu.org/software/sharutils/
+docs_url=http://www.gnu.org/software/sharutils/man.html

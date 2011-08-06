@@ -1,0 +1,6 @@
+version=20110722
+base_url=http://ftp.gnu.org/gnu/w3
+#base_url=http://alpha.gnu.org/gnu/w3
+archive_format=tar.bz2
+website_url=http://www.gnu.org/software/w3/
+docs_url=http://www.gnu.org/software/w3/man.html

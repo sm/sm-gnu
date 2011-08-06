@@ -1,0 +1,6 @@
+version=20110722
+base_url=http://ftp.gnu.org/gnu/parallel
+#base_url=http://alpha.gnu.org/gnu/parallel
+archive_format=tar.bz2
+website_url=http://www.gnu.org/software/parallel/
+docs_url=http://www.gnu.org/software/parallel/man.html

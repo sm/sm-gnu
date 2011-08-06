@@ -1,0 +1,6 @@
+version=20110722
+base_url=http://ftp.gnu.org/gnu/shmm
+#base_url=http://alpha.gnu.org/gnu/shmm
+archive_format=tar.bz2
+website_url=http://www.gnu.org/software/shmm/
+docs_url=http://www.gnu.org/software/shmm/man.html

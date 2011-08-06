@@ -1,0 +1,6 @@
+version=20110722
+base_url=http://ftp.gnu.org/gnu/spacechart
+#base_url=http://alpha.gnu.org/gnu/spacechart
+archive_format=tar.bz2
+website_url=http://www.gnu.org/software/spacechart/
+docs_url=http://www.gnu.org/software/spacechart/man.html

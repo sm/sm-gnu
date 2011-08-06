@@ -1,0 +1,6 @@
+version=20110722
+base_url=http://ftp.gnu.org/gnu/womb
+#base_url=http://alpha.gnu.org/gnu/womb
+archive_format=tar.bz2
+website_url=http://www.gnu.org/software/womb/
+docs_url=http://www.gnu.org/software/womb/man.html

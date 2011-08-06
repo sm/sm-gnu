@@ -1,0 +1,6 @@
+version=20110722
+base_url=http://ftp.gnu.org/gnu/dominion
+#base_url=http://alpha.gnu.org/gnu/dominion
+archive_format=tar.bz2
+website_url=http://www.gnu.org/software/dominion/
+docs_url=http://www.gnu.org/software/dominion/man.html

@@ -1,0 +1,6 @@
+version=20110722
+base_url=http://ftp.gnu.org/gnu/fdisk
+#base_url=http://alpha.gnu.org/gnu/fdisk
+archive_format=tar.bz2
+website_url=http://www.gnu.org/software/fdisk/
+docs_url=http://www.gnu.org/software/fdisk/man.html

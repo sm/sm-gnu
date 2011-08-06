@@ -1,0 +1,6 @@
+version=20110722
+base_url=http://ftp.gnu.org/gnu/readline
+#base_url=http://alpha.gnu.org/gnu/readline
+archive_format=tar.bz2
+website_url=http://www.gnu.org/software/readline/
+docs_url=http://www.gnu.org/software/readline/man.html

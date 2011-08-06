@@ -1,0 +1,6 @@
+version=20110722
+base_url=http://ftp.gnu.org/gnu/dionysus
+#base_url=http://alpha.gnu.org/gnu/dionysus
+archive_format=tar.bz2
+website_url=http://www.gnu.org/software/dionysus/
+docs_url=http://www.gnu.org/software/dionysus/man.html

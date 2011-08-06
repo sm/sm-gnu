@@ -1,0 +1,6 @@
+version=20110722
+base_url=http://ftp.gnu.org/gnu/enscript
+#base_url=http://alpha.gnu.org/gnu/enscript
+archive_format=tar.bz2
+website_url=http://www.gnu.org/software/enscript/
+docs_url=http://www.gnu.org/software/enscript/man.html

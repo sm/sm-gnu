@@ -1,0 +1,6 @@
+version=20110722
+base_url=http://ftp.gnu.org/gnu/bayonne
+#base_url=http://alpha.gnu.org/gnu/bayonne
+archive_format=tar.bz2
+website_url=http://www.gnu.org/software/bayonne/
+docs_url=http://www.gnu.org/software/bayonne/man.html

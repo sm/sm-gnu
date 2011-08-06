@@ -1,0 +1,6 @@
+version=20110722
+base_url=http://ftp.gnu.org/gnu/hp2xx
+#base_url=http://alpha.gnu.org/gnu/hp2xx
+archive_format=tar.bz2
+website_url=http://www.gnu.org/software/hp2xx/
+docs_url=http://www.gnu.org/software/hp2xx/man.html

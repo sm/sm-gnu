@@ -1,0 +1,6 @@
+version=20110722
+base_url=http://ftp.gnu.org/gnu/pies
+#base_url=http://alpha.gnu.org/gnu/pies
+archive_format=tar.bz2
+website_url=http://www.gnu.org/software/pies/
+docs_url=http://www.gnu.org/software/pies/man.html

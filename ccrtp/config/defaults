@@ -1,0 +1,6 @@
+version=20110722
+base_url=http://ftp.gnu.org/gnu/ccrtp
+#base_url=http://alpha.gnu.org/gnu/ccrtp
+archive_format=tar.bz2
+website_url=http://www.gnu.org/software/ccrtp/
+docs_url=http://www.gnu.org/software/ccrtp/man.html

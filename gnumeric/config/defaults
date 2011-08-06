@@ -1,0 +1,6 @@
+version=20110722
+base_url=http://ftp.gnu.org/gnu/gnumeric
+#base_url=http://alpha.gnu.org/gnu/gnumeric
+archive_format=tar.bz2
+website_url=http://www.gnu.org/software/gnumeric/
+docs_url=http://www.gnu.org/software/gnumeric/man.html

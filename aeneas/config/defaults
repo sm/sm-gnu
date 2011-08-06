@@ -1,0 +1,6 @@
+version=20110722
+base_url=http://ftp.gnu.org/gnu/aeneas
+#base_url=http://alpha.gnu.org/gnu/aeneas
+archive_format=tar.bz2
+website_url=http://www.gnu.org/software/aeneas/
+docs_url=http://www.gnu.org/software/aeneas/man.html
