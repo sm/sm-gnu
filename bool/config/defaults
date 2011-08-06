@@ -1,4 +1,4 @@
-version=20110722
+version=0.2.1
 base_url=http://ftp.gnu.org/gnu/bool
 #base_url=http://alpha.gnu.org/gnu/bool
 archive_format=tar.bz2

@@ -1,4 +1,4 @@
-version=20110722
+version=
 base_url=http://ftp.gnu.org/gnu/dr-geo
 #base_url=http://alpha.gnu.org/gnu/dr-geo
 archive_format=tar.bz2

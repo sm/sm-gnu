@@ -1,4 +1,4 @@
-version=20110722
+version=2.0.1
 base_url=http://ftp.gnu.org/gnu/ccrtp
 #base_url=http://alpha.gnu.org/gnu/ccrtp
 archive_format=tar.bz2

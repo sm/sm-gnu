@@ -1,4 +1,4 @@
-version=20110722
+version=
 base_url=http://ftp.gnu.org/gnu/gnucomm
 #base_url=http://alpha.gnu.org/gnu/gnucomm
 archive_format=tar.bz2

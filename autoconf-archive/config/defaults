@@ -1,4 +1,4 @@
-version=20110722
+version=2011.07.17
 base_url=http://ftp.gnu.org/gnu/autoconf-archive
 #base_url=http://alpha.gnu.org/gnu/autoconf-archive
 archive_format=tar.bz2

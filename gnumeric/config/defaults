@@ -1,4 +1,4 @@
-version=20110722
+version=
 base_url=http://ftp.gnu.org/gnu/gnumeric
 #base_url=http://alpha.gnu.org/gnu/gnumeric
 archive_format=tar.bz2

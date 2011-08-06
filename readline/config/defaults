@@ -1,4 +1,4 @@
-version=20110722
+version=
 base_url=http://ftp.gnu.org/gnu/readline
 #base_url=http://alpha.gnu.org/gnu/readline
 archive_format=tar.bz2

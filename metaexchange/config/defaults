@@ -1,4 +1,4 @@
-version=20110722
+version=
 base_url=http://ftp.gnu.org/gnu/metaexchange
 #base_url=http://alpha.gnu.org/gnu/metaexchange
 archive_format=tar.bz2

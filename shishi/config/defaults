@@ -1,4 +1,4 @@
-version=20110722
+version=
 base_url=http://ftp.gnu.org/gnu/shishi
 #base_url=http://alpha.gnu.org/gnu/shishi
 archive_format=tar.bz2

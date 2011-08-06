@@ -1,4 +1,4 @@
-version=20110722
+version=
 base_url=http://ftp.gnu.org/gnu/dotgnu-pnet
 #base_url=http://alpha.gnu.org/gnu/dotgnu-pnet
 archive_format=tar.bz2

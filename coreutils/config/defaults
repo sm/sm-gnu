@@ -1,4 +1,4 @@
-version=20110722
+version=8.9
 base_url=http://ftp.gnu.org/gnu/coreutils
 #base_url=http://alpha.gnu.org/gnu/coreutils
 archive_format=tar.bz2

@@ -1,4 +1,4 @@
-version=20110722
+version=0.98
 base_url=http://ftp.gnu.org/gnu/classpath
 #base_url=http://alpha.gnu.org/gnu/classpath
 archive_format=tar.bz2

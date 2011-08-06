@@ -1,4 +1,4 @@
-version=20110722
+version=
 base_url=http://ftp.gnu.org/gnu/sed
 #base_url=http://alpha.gnu.org/gnu/sed
 archive_format=tar.bz2

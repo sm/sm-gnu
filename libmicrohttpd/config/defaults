@@ -1,4 +1,4 @@
-version=20110722
+version=
 base_url=http://ftp.gnu.org/gnu/libmicrohttpd
 #base_url=http://alpha.gnu.org/gnu/libmicrohttpd
 archive_format=tar.bz2

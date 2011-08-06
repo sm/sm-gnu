@@ -1,4 +1,4 @@
-version=20110722
+version=gnu6.0.0
 base_url=http://ftp.gnu.org/gnu/chess
 #base_url=http://alpha.gnu.org/gnu/chess
 archive_format=tar.bz2

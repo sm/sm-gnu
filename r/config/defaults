@@ -1,4 +1,4 @@
-version=20110722
+version=
 base_url=http://ftp.gnu.org/gnu/r
 #base_url=http://alpha.gnu.org/gnu/r
 archive_format=tar.bz2

@@ -1,4 +1,4 @@
-version=20110722
+version=3.0
 base_url=http://ftp.gnu.org/gnu/diffutils
 #base_url=http://alpha.gnu.org/gnu/diffutils
 archive_format=tar.bz2

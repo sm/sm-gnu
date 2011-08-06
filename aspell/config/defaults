@@ -1,4 +1,4 @@
-version=20110722
+version=lang-20101122
 base_url=http://ftp.gnu.org/gnu/aspell
 #base_url=http://alpha.gnu.org/gnu/aspell
 archive_format=tar.bz2

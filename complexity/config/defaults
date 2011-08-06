@@ -1,4 +1,4 @@
-version=20110722
+version=0.4
 base_url=http://ftp.gnu.org/gnu/complexity
 #base_url=http://alpha.gnu.org/gnu/complexity
 archive_format=tar.bz2

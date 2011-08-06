@@ -1,4 +1,4 @@
-version=20110722
+version=
 base_url=http://ftp.gnu.org/gnu/gsegrafix
 #base_url=http://alpha.gnu.org/gnu/gsegrafix
 archive_format=tar.bz2

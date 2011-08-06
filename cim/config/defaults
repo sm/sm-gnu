@@ -1,4 +1,4 @@
-version=20110722
+version=3.30
 base_url=http://ftp.gnu.org/gnu/cim
 #base_url=http://alpha.gnu.org/gnu/cim
 archive_format=tar.bz2

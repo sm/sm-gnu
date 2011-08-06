@@ -1,4 +1,4 @@
-version=20110722
+version=1.9.6
 base_url=http://ftp.gnu.org/gnu/automake
 #base_url=http://alpha.gnu.org/gnu/automake
 archive_format=tar.bz2

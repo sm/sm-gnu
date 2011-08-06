@@ -1,4 +1,4 @@
-version=20110722
+version=3.2.9
 base_url=http://ftp.gnu.org/gnu/cgicc
 #base_url=http://alpha.gnu.org/gnu/cgicc
 archive_format=tar.bz2

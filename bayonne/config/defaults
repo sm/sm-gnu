@@ -1,4 +1,4 @@
-version=20110722
+version=1.2.8
 base_url=http://ftp.gnu.org/gnu/bayonne
 #base_url=http://alpha.gnu.org/gnu/bayonne
 archive_format=tar.bz2

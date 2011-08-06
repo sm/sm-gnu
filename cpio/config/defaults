@@ -1,4 +1,4 @@
-version=20110722
+version=2.9
 base_url=http://ftp.gnu.org/gnu/cpio
 #base_url=http://alpha.gnu.org/gnu/cpio
 archive_format=tar.bz2

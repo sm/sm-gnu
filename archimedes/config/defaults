@@ -1,4 +1,4 @@
-version=20110722
+version=0.9.1
 base_url=http://ftp.gnu.org/gnu/archimedes
 #base_url=http://alpha.gnu.org/gnu/archimedes
 archive_format=tar.bz2

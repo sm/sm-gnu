@@ -1,4 +1,4 @@
-version=20110722
+version=3.3.9
 base_url=http://ftp.gnu.org/gnu/ddd
 #base_url=http://alpha.gnu.org/gnu/ddd
 archive_format=tar.bz2

@@ -1,4 +1,4 @@
-version=20110722
+version=
 base_url=http://ftp.gnu.org/gnu/scm
 #base_url=http://alpha.gnu.org/gnu/scm
 archive_format=tar.bz2

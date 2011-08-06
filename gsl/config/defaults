@@ -1,4 +1,4 @@
-version=20110722
+version=
 base_url=http://ftp.gnu.org/gnu/gsl
 #base_url=http://alpha.gnu.org/gnu/gsl
 archive_format=tar.bz2

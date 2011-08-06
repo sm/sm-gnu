@@ -1,4 +1,4 @@
-version=20110722
+version=doc-3.2
 base_url=http://ftp.gnu.org/gnu/bash
 #base_url=http://alpha.gnu.org/gnu/bash
 archive_format=tar.bz2

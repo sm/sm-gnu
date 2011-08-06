@@ -1,4 +1,4 @@
-version=20110722
+version=
 base_url=http://ftp.gnu.org/gnu/ed
 #base_url=http://alpha.gnu.org/gnu/ed
 archive_format=tar.bz2

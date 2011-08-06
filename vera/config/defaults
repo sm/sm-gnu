@@ -1,4 +1,4 @@
-version=20110722
+version=
 base_url=http://ftp.gnu.org/gnu/vera
 #base_url=http://alpha.gnu.org/gnu/vera
 archive_format=tar.bz2

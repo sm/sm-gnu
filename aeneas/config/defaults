@@ -1,4 +1,4 @@
-version=20110722
+version=1.2
 base_url=http://ftp.gnu.org/gnu/aeneas
 #base_url=http://alpha.gnu.org/gnu/aeneas
 archive_format=tar.bz2

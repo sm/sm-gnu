@@ -1,4 +1,4 @@
-version=20110722
+version=
 base_url=http://ftp.gnu.org/gnu/gtk+
 #base_url=http://alpha.gnu.org/gnu/gtk+
 archive_format=tar.bz2

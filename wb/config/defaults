@@ -1,4 +1,4 @@
-version=20110722
+version=
 base_url=http://ftp.gnu.org/gnu/wb
 #base_url=http://alpha.gnu.org/gnu/wb
 archive_format=tar.bz2

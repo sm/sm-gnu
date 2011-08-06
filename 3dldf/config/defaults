@@ -1,4 +1,4 @@
-version=20110722
+version=
 base_url=http://ftp.gnu.org/gnu/3dldf
 #base_url=http://alpha.gnu.org/gnu/3dldf
 archive_format=tar.bz2
