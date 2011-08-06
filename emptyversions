@@ -1,0 +1,8 @@
+#!/usr/bin/env bdsm
+
+modules ext/filesystem
+
+printf "%s\n" "GNU extensions with empty versions:"
+
+ls | parallel if grep -q "'^version=$'" {}/config/defaults \; then echo http://gnu.org/software/{} \; fi
+
