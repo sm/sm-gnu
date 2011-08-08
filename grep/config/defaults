@@ -1,6 +1,4 @@
-version=
+version=2.9
 base_url=http://ftp.gnu.org/gnu/grep
-#base_url=http://alpha.gnu.org/gnu/grep
-archive_format=tar.bz2
 website_url=http://www.gnu.org/software/grep/
 docs_url=http://www.gnu.org/software/grep/man.html

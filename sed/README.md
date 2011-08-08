@@ -1,7 +1,5 @@
 # Extension README
 
-This extension is a package extension which installs gnu sed.
-
-For more information about gnu sed visit the project website at
-http://www.gnu.org/software/sed/
+This extension installs GNU sed. For more information about GNU sed
+visit the project website at http://www.gnu.org/software/sed/
 

@@ -1,6 +1,5 @@
-version=
+version=5.9
 base_url=http://ftp.gnu.org/gnu/ncurses
 #base_url=http://alpha.gnu.org/gnu/ncurses
 archive_format=tar.bz2
 website_url=http://www.gnu.org/software/ncurses/
-docs_url=http://www.gnu.org/software/ncurses/man.html
