@@ -1,5 +1,5 @@
 version=
-base_url=http://ftp.gnu.org/gnu/freeipmi
+base_url=ftp://mirror.rit.edu/gnu/freeipmi
 #base_url=http://alpha.gnu.org/gnu/freeipmi
 archive_format=tar.bz2
 website_url=http://www.gnu.org/software/freeipmi/

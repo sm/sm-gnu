@@ -1,5 +1,5 @@
 version=
-base_url=http://ftp.gnu.org/gnu/proxyknife
+base_url=ftp://mirror.rit.edu/gnu/proxyknife
 #base_url=http://alpha.gnu.org/gnu/proxyknife
 archive_format=tar.bz2
 website_url=http://www.gnu.org/software/proxyknife/

@@ -1,5 +1,5 @@
 version=0.4
-base_url=http://ftp.gnu.org/gnu/complexity
+base_url=ftp://mirror.rit.edu/gnu/complexity
 #base_url=http://alpha.gnu.org/gnu/complexity
 archive_format=tar.bz2
 website_url=http://www.gnu.org/software/complexity/

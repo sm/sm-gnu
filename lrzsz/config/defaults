@@ -1,5 +1,5 @@
 version=
-base_url=http://ftp.gnu.org/gnu/lrzsz
+base_url=ftp://mirror.rit.edu/gnu/lrzsz
 #base_url=http://alpha.gnu.org/gnu/lrzsz
 archive_format=tar.bz2
 website_url=http://www.gnu.org/software/lrzsz/

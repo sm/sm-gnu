@@ -1,5 +1,5 @@
 version=
-base_url=http://ftp.gnu.org/gnu/tar
+base_url=ftp://mirror.rit.edu/gnu/tar
 #base_url=http://alpha.gnu.org/gnu/tar
 archive_format=tar.bz2
 website_url=http://www.gnu.org/software/tar/

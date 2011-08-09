@@ -1,5 +1,5 @@
 version=1.2.8
-base_url=http://ftp.gnu.org/gnu/bayonne
+base_url=ftp://mirror.rit.edu/gnu/bayonne
 #base_url=http://alpha.gnu.org/gnu/bayonne
 archive_format=tar.bz2
 website_url=http://www.gnu.org/software/bayonne/

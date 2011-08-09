@@ -1,5 +1,5 @@
 version=
-base_url=http://ftp.gnu.org/gnu/gcompris
+base_url=ftp://mirror.rit.edu/gnu/gcompris
 #base_url=http://alpha.gnu.org/gnu/gcompris
 archive_format=tar.bz2
 website_url=http://www.gnu.org/software/gcompris/

@@ -1,5 +1,5 @@
 version=
-base_url=http://ftp.gnu.org/gnu/pspp
+base_url=ftp://mirror.rit.edu/gnu/pspp
 #base_url=http://alpha.gnu.org/gnu/pspp
 archive_format=tar.bz2
 website_url=http://www.gnu.org/software/pspp/

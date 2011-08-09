@@ -1,5 +1,5 @@
 version=4.1.1
-base_url=http://ftp.gnu.org/gnu/anubis
+base_url=ftp://mirror.rit.edu/gnu/anubis
 #base_url=http://alpha.gnu.org/gnu/anubis
 archive_format=tar.bz2
 website_url=http://www.gnu.org/software/anubis/

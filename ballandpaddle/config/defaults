@@ -1,5 +1,5 @@
 version=0.8.1
-base_url=http://ftp.gnu.org/gnu/ballandpaddle
+base_url=ftp://mirror.rit.edu/gnu/ballandpaddle
 #base_url=http://alpha.gnu.org/gnu/ballandpaddle
 archive_format=tar.bz2
 website_url=http://www.gnu.org/software/ballandpaddle/

@@ -1,5 +1,5 @@
 version=
-base_url=http://ftp.gnu.org/gnu/gcl
+base_url=ftp://mirror.rit.edu/gnu/gcl
 #base_url=http://alpha.gnu.org/gnu/gcl
 archive_format=tar.bz2
 website_url=http://www.gnu.org/software/gcl/

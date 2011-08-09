@@ -1,5 +1,5 @@
 version=
-base_url=http://ftp.gnu.org/gnu/libidn
+base_url=ftp://mirror.rit.edu/gnu/libidn
 #base_url=http://alpha.gnu.org/gnu/libidn
 archive_format=tar.bz2
 website_url=http://www.gnu.org/software/libidn/

@@ -1,5 +1,5 @@
 version=
-base_url=http://ftp.gnu.org/gnu/guile-ncurses
+base_url=ftp://mirror.rit.edu/gnu/guile-ncurses
 #base_url=http://alpha.gnu.org/gnu/guile-ncurses
 archive_format=tar.bz2
 website_url=http://www.gnu.org/software/guile-ncurses/
