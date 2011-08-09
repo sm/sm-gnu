@@ -1,4 +1,4 @@
-version=
+version=4.0.3
 base_url=ftp://mirror.rit.edu/gnu/screen
 #base_url=http://alpha.gnu.org/gnu/screen
 archive_format=tar.bz2
