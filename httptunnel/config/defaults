@@ -1,6 +1,6 @@
 version=
 base_url=ftp://mirror.rit.edu/gnu/httptunnel
 #base_url=http://alpha.gnu.org/gnu/httptunnel
-archive_format=tar.bz2
+archive_format=tar.gz
 website_url=http://www.gnu.org/software/httptunnel/
 docs_url=http://www.gnu.org/software/httptunnel/man.html

@@ -1,6 +1,6 @@
 version=doc-3.2
 base_url=ftp://mirror.rit.edu/gnu/bash
 #base_url=http://alpha.gnu.org/gnu/bash
-archive_format=tar.bz2
+archive_format=tar.gz
 website_url=http://www.gnu.org/software/bash/
 docs_url=http://www.gnu.org/software/bash/man.html

@@ -1,6 +1,6 @@
 version=2.8.2
 base_url=ftp://mirror.rit.edu/gnu/dominion
 #base_url=http://alpha.gnu.org/gnu/dominion
-archive_format=tar.bz2
+archive_format=tar.gz
 website_url=http://www.gnu.org/software/dominion/
 docs_url=http://www.gnu.org/software/dominion/man.html

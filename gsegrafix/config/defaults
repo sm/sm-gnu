@@ -1,6 +1,6 @@
 version=
 base_url=ftp://mirror.rit.edu/gnu/gsegrafix
 #base_url=http://alpha.gnu.org/gnu/gsegrafix
-archive_format=tar.bz2
+archive_format=tar.gz
 website_url=http://www.gnu.org/software/gsegrafix/
 docs_url=http://www.gnu.org/software/gsegrafix/man.html

@@ -1,6 +1,6 @@
 version=
 base_url=ftp://mirror.rit.edu/gnu/wb
 #base_url=http://alpha.gnu.org/gnu/wb
-archive_format=tar.bz2
+archive_format=tar.gz
 website_url=http://www.gnu.org/software/wb/
 docs_url=http://www.gnu.org/software/wb/man.html
