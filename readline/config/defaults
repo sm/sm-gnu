@@ -1,4 +1,4 @@
-version=
+version=6.2
 base_url=ftp://mirror.rit.edu/gnu/readline
 #base_url=http://alpha.gnu.org/gnu/readline
 archive_format=tar.gz
