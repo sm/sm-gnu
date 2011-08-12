@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+
+package_dependencies+=(nettle)
+
+case "${package_version}" in
+  2.*)
+    archive_format="tar.bz2"
+    ;;
+  3.*)
+    package_dependencies+=(xz)
+    archive_format="tar.xz"
+    ;;
+esac
+
