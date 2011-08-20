@@ -1,6 +1,6 @@
-#!/usr/bin/env bdsm
+#!/bin/sm
 
-modules ext/filesystem
+modules ext/files ext/paths
 
 printf "%s\n" "GNU extensions with empty versions:"
 
