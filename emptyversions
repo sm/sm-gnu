@@ -1,6 +1,6 @@
 #!/bin/sm
 
-modules ext/files ext/paths
+modules api/filesystem
 
 printf "%s\n" "GNU extensions with empty versions:"
 
