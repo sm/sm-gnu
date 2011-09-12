@@ -4,11 +4,11 @@ readline_initialize()
 {
   package_dependencies+=(ncurses)
 
-  if package_is_active ncurses
+  if package is active ncurses
   then
     package configure flags --with-curses
     debug package "Enabling 'termcap' support with 'ncurses'."
-  elif package_is_active termcap
+  elif package is active termcap
   then
     package configure flags --with-termcap
     debug package "Enabling 'termcap' support with 'termcap'."
