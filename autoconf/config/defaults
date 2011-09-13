@@ -1,4 +1,4 @@
-version=2.9-2.10.diff.gz
+version=2.68
 base_url=ftp://mirror.rit.edu/gnu/autoconf
 #base_url=http://alpha.gnu.org/gnu/autoconf
 archive_format=tar.gz

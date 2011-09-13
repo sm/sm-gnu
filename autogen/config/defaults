@@ -1,4 +1,4 @@
-version=5.5.7.md5sum
+version=5.11.1
 base_url=ftp://mirror.rit.edu/gnu/autogen
 #base_url=http://alpha.gnu.org/gnu/autogen
 archive_format=tar.gz

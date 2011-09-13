@@ -1,4 +1,4 @@
-version=
+version=1.4.16
 base_url=ftp://mirror.rit.edu/gnu/m4
 #base_url=http://alpha.gnu.org/gnu/m4
 archive_format=tar.gz
