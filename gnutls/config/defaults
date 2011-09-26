@@ -1,4 +1,4 @@
-version=3.0.0
+version=3.0.3
 base_url=ftp://mirror.rit.edu/gnu/gnutls
 #base_url=http://alpha.gnu.org/gnu/gnutls
 archive_format=tar.xz
