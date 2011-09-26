@@ -1,4 +1,4 @@
-version=1.9.6
+version=1.11.1
 base_url=ftp://mirror.rit.edu/gnu/automake
 #base_url=http://alpha.gnu.org/gnu/automake
 archive_format=tar.gz

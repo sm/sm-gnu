@@ -3,4 +3,5 @@ base_url=ftp://mirror.rit.edu/gnu/readline
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/readline/
 docs_url=http://www.gnu.org/software/readline/man.html
-configure_flags=--with-shared --sysconfdir=/etc
+configure_flags=--with-shared --sysconfdir=/etc --with-curses
+package_dependencies=ncurses

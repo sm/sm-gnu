@@ -1,4 +1,4 @@
-version=
+version=1.14
 base_url=ftp://mirror.rit.edu/gnu/libiconv
 #base_url=http://alpha.gnu.org/gnu/libiconv
 archive_format=tar.gz
