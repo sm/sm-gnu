@@ -1,6 +1,5 @@
-version=
-base_url=ftp://mirror.rit.edu/gnu/mpc
-#base_url=http://alpha.gnu.org/gnu/mpc
+version=0.9
+base_url=http://www.multiprecision.org/mpc/download
 archive_format=tar.gz
-website_url=http://www.gnu.org/software/mpc/
-docs_url=http://www.gnu.org/software/mpc/man.html
+website_url=http://www.multiprecision.org/
+docs_url=http://www.multiprecision.org/index.php?prog=mpc&page=html
