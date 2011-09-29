@@ -1,0 +1,11 @@
+#!/bin/sh
+
+gcc_prefetch()
+{
+  typeset _url _package_url
+  for _url in ${=package_base_url}
+  do
+    _package_url="${_package_url:-} ${_url}/${package_name}-${package_version}/${package_file}"
+  done
+  package define url "${_package_url}"
+}
