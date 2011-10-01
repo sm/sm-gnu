@@ -8,4 +8,17 @@ gcc_prefetch()
     _package_url="${_package_url:-} ${_url}/${package_name}-${package_version}/${package_file}"
   done
   package define url "${_package_url}"
+  package configure flags "--with-pkgversion=GCC_SM_$(date +%Y%m%d_%H%M)"
+}
+
+gcc_prconfigure()
+{
+  typeset GCC_BUILD_PATH
+  export configure_command PREFIX
+  GCC_BUILD_PATH=$PWD-build
+  PREFIX="${install_path}"
+  package configure flag "--prefix" "${install_path}"
+  configure_command="$PWD/configure ${configure_flags[*]}"
+  \mkdir "${GCC_BUILD_PATH}"
+  \cd "${GCC_BUILD_PATH}"
 }
