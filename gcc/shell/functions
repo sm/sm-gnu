@@ -11,14 +11,16 @@ gcc_prefetch()
   package configure flags "--with-pkgversion=GCC_SM_$(date +%Y%m%d_%H%M)"
 }
 
-gcc_prconfigure()
+gcc_preconfigure()
 {
   typeset GCC_BUILD_PATH
-  export configure_command PREFIX
+  export configure_command PREFIX BOOT_CFLAGS CFLAGS
   GCC_BUILD_PATH=$PWD-build
   PREFIX="${install_path}"
-  package configure flag "--prefix" "${install_path}"
+  BOOT_CFLAGS="${CFLAGS:='-g -O2'}"
+  package configure flag key "--prefix" "${install_path}"
   configure_command="$PWD/configure ${configure_flags[*]}"
-  \mkdir "${GCC_BUILD_PATH}"
+  \rm -rf "${GCC_BUILD_PATH}"
+  \mkdir -p "${GCC_BUILD_PATH}"
   \cd "${GCC_BUILD_PATH}"
 }
