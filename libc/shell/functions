@@ -10,7 +10,7 @@ libc_prefetch()
 libc_preconfigure()
 {
   export configure_command PREFIX
-  package configure flag "--prefix" "${install_path}"
+  package configure flag key --prefix "${install_path}"
   configure_command="../configure ${configure_flags[*]}"
   PREFIX="${install_base_path}/${package_version}"
   \mkdir glibc-build
