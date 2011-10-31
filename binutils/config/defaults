@@ -1,6 +1,6 @@
-version=2.9.1
+version=2.21.1a
 base_url=ftp://mirror.rit.edu/gnu/binutils
 #base_url=http://alpha.gnu.org/gnu/binutils
-archive_format=tar.gz
+archive_format=tar.bz2
 website_url=http://www.gnu.org/software/binutils/
 docs_url=http://www.gnu.org/software/binutils/man.html
