@@ -1,0 +1,12 @@
+#!/bin/sh
+
+ncursesw_prefetch()
+{
+  package define \
+    file "ncurses-${package_version}.${archive_format}"
+}
+
+ncursesw_postfetch()
+{
+  mv ncurses-${package_version}/* .
+}
