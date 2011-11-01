@@ -3,4 +3,4 @@ base_url=ftp://mirror.rit.edu/gnu/ncurses
 #base_url=http://alpha.gnu.org/gnu/ncurses
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/ncurses/
-configure_flags=--with-shared --without-develop --without-debug --sysconfdir=/etc
+configure_flags=--with-shared --sysconfdir=/etc --with-libtool
