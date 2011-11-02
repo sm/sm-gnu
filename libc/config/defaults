@@ -4,3 +4,4 @@ archive_format=tar.bz2
 website_url=http://www.gnu.org/software/libc/
 docs_url=http://www.gnu.org/software/libc/man.html
 package_dependencies=binutils
+configure_flags=--sysconfdir=/etc
