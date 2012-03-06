@@ -1,0 +1,6 @@
+#!/bin/sh
+
+binutils_postfetch()
+{
+  mv binutils*/* .
+}

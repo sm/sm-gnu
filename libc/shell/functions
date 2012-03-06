@@ -1,0 +1,19 @@
+#!/bin/sh
+
+libc_prefetch()
+{
+  package define \
+    dir "glibc-${package_version}" \
+    file "glibc-${package_version}.${archive_format}"
+}
+
+libc_preconfigure()
+{
+  export configure_command PREFIX PATH
+  package configure flag key --prefix "${install_path}"
+  configure_command="../configure ${configure_flags[*]}"
+  PREFIX="${install_base_path}/${package_version}"
+  \mkdir glibc-build
+  \cd glibc-build
+  PATH="/opt/sm/bin:/opt/sm/pkg/active/bin:/opt/sm/pkg/active/sbin:$PATH"
+}

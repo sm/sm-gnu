@@ -1,0 +1,30 @@
+#!/bin/sh
+
+gcc_prefetch()
+{
+  typeset _url _package_url
+  for _url in ${=package_base_url}
+  do
+    _package_url="${_package_url:-} ${_url}/${package_name}-${package_version}/${package_file}"
+  done
+  package define url "${_package_url}"
+  package configure flags "--with-pkgversion=GCC_SM_$(date +%Y%m%d_%H%M)"
+#  package configure flags \
+#    --with-pkgversion=GCC_SM_$(date +%Y%m%d_%H%M) \
+#    --with-sysroot=${install_path} \
+#    --with-build-sysroot=/
+}
+
+gcc_preconfigure()
+{
+  typeset GCC_BUILD_PATH
+  export configure_command PREFIX BOOT_CFLAGS CFLAGS
+  GCC_BUILD_PATH=$PWD-build
+  PREFIX="${install_path}"
+  BOOT_CFLAGS="${CFLAGS:='-g -O2'}"
+  package configure flag key "--prefix" "${install_path}"
+  configure_command="$PWD/configure ${configure_flags[*]}"
+  \rm -rf "${GCC_BUILD_PATH}"
+  \mkdir -p "${GCC_BUILD_PATH}"
+  \cd "${GCC_BUILD_PATH}"
+}
