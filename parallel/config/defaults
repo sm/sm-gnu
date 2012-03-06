@@ -1,4 +1,4 @@
-version=20110822
+version=20120222
 base_url=ftp://mirror.rit.edu/gnu/parallel
 #base_url=http://alpha.gnu.org/gnu/parallel
 archive_format=tar.bz2
