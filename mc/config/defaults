@@ -1,6 +1,6 @@
-version=
-base_url=ftp://mirror.rit.edu/gnu/mc
-#base_url=http://alpha.gnu.org/gnu/mc
-archive_format=tar.gz
-website_url=http://www.gnu.org/software/mc/
-docs_url=http://www.gnu.org/software/mc/man.html
+version=4.8.2
+base_url=http://www.midnight-commander.org/downloads/
+archive_format=tar.bz2
+website_url=https://www.midnight-commander.org/
+docs_url=https://www.midnight-commander.org/wiki/doc
+package_dependencies=slang
