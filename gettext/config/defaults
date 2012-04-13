@@ -1,6 +1,0 @@
-version=
-base_url=ftp://mirror.rit.edu/gnu/gettext
-#base_url=http://alpha.gnu.org/gnu/gettext
-archive_format=tar.gz
-website_url=http://www.gnu.org/software/gettext/
-docs_url=http://www.gnu.org/software/gettext/man.html
