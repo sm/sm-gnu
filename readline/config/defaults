@@ -4,4 +4,5 @@ archive_format=tar.gz
 website_url=http://www.gnu.org/software/readline/
 docs_url=http://www.gnu.org/software/readline/man.html
 configure_flags=--with-shared --sysconfdir=/etc --with-curses
+configure_flag_static=--disable-shared
 package_dependencies=ncurses
