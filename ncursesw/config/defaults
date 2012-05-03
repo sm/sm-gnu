@@ -4,3 +4,4 @@ base_url=ftp://mirror.rit.edu/gnu/ncurses
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/ncurses/
 configure_flags=--with-shared --sysconfdir=/etc --enable-getcap --with-ticlib --with-termlib --disable-leaks --without-debug --enable-widec
+configure_flag_static=--without-shared
