@@ -3,3 +3,4 @@ base_url=ftp://ftp.gnu.org/gnu/gdbm/
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gdbm/
 docs_url=http://www.gnu.org/software/gdbm/man.html
+configure_flag_static=--disable-shared
