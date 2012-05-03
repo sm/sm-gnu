@@ -1,6 +1,4 @@
-version=
-base_url=ftp://mirror.rit.edu/gnu/glib
-#base_url=http://alpha.gnu.org/gnu/glib
-archive_format=tar.gz
+version=2.24.5
+archive_format=tar.bz2
 website_url=http://www.gnu.org/software/glib/
 docs_url=http://www.gnu.org/software/glib/man.html
