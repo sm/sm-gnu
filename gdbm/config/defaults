@@ -1,6 +1,5 @@
-version=
-base_url=ftp://mirror.rit.edu/gnu/gdbm
-#base_url=http://alpha.gnu.org/gnu/gdbm
+version=1.10
+base_url=ftp://ftp.gnu.org/gnu/gdbm/
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gdbm/
 docs_url=http://www.gnu.org/software/gdbm/man.html
