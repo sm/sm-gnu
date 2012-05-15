@@ -1,7 +1,5 @@
-version=2.2
-base_url=ftp://mirror.rit.edu/gnu/nettle
-# ftp://ftp.linux.it/pub/mirrors/gnupg/lsh/
-#base_url=http://alpha.gnu.org/gnu/nettle
+version=2.4
+base_url=ftp://ftp.gnu.org/gnu/nettle
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/nettle/
 docs_url=http://www.gnu.org/software/nettle/man.html
