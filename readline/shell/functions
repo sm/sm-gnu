@@ -1,0 +1,12 @@
+#!/bin/sh
+
+readline_preconfigure()
+{
+  if os is darwin && os arch type is x86_64
+  then
+    __sm.package.configure.flag --build x86_64-apple-darwin11
+    # dynamic patch, solves fixing different versions
+    file replace regexp '-arch_only `/usr/bin/arch`' with '' support/shobj-conf
+    file replace regexp 'darwin\[.*)' with 'darwin*' support/shobj-conf
+  fi
+}
