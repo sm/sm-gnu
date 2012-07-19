@@ -3,5 +3,5 @@ base_url=http://mirror.rit.edu/gnu/gnu/ncurses http://mirror.rit.edu/gnu/ncurses
 #base_url=http://alpha.gnu.org/gnu/ncurses
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/ncurses/
-configure_flags=--with-shared --sysconfdir=/etc --enable-getcap --with-ticlib --with-termlib --disable-leaks --without-debug
+configure_flags=--with-shared --sysconfdir=/etc --enable-getcap --with-ticlib --with-termlib --disable-leaks --without-debug --enable-pc-files --with-pkg-config
 configure_flag_static=--without-shared
