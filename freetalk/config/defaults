@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/freetalk
+base_url=ftp://mirror.rit.edu/gnu/gnu/freetalk
 #base_url=http://alpha.gnu.org/gnu/freetalk
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/freetalk/

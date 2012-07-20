@@ -1,5 +1,5 @@
 version=emacs-11.84-1.suse.noarch.rpm
-base_url=ftp://mirror.rit.edu/gnu/auctex
+base_url=ftp://mirror.rit.edu/gnu/gnu/auctex
 #base_url=http://alpha.gnu.org/gnu/auctex
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/auctex/

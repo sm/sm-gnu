@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/help2man
+base_url=ftp://mirror.rit.edu/gnu/gnu/help2man
 #base_url=http://alpha.gnu.org/gnu/help2man
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/help2man/

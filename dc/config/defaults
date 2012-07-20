@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/dc
+base_url=ftp://mirror.rit.edu/gnu/gnu/dc
 #base_url=http://alpha.gnu.org/gnu/dc
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/dc/

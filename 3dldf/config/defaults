@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/3dldf
+base_url=ftp://mirror.rit.edu/gnu/gnu/3dldf
 #base_url=http://alpha.gnu.org/gnu/3dldf
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/3dldf/

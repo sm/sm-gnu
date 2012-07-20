@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/jdresolve
+base_url=ftp://mirror.rit.edu/gnu/gnu/jdresolve
 #base_url=http://alpha.gnu.org/gnu/jdresolve
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/jdresolve/

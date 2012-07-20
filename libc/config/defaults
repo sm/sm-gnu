@@ -1,5 +1,5 @@
 version=2.14
-base_url=ftp://mirror.rit.edu/gnu/libc
+base_url=ftp://mirror.rit.edu/gnu/gnu/libc
 archive_format=tar.bz2
 website_url=http://www.gnu.org/software/libc/
 docs_url=http://www.gnu.org/software/libc/man.html

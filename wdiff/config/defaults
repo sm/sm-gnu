@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/wdiff
+base_url=ftp://mirror.rit.edu/gnu/gnu/wdiff
 #base_url=http://alpha.gnu.org/gnu/wdiff
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/wdiff/

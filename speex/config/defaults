@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/speex
+base_url=ftp://mirror.rit.edu/gnu/gnu/speex
 #base_url=http://alpha.gnu.org/gnu/speex
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/speex/

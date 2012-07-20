@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/ggradebook
+base_url=ftp://mirror.rit.edu/gnu/gnu/ggradebook
 #base_url=http://alpha.gnu.org/gnu/ggradebook
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/ggradebook/

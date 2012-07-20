@@ -1,5 +1,5 @@
 version=1.2
-base_url=ftp://mirror.rit.edu/gnu/aeneas
+base_url=ftp://mirror.rit.edu/gnu/gnu/aeneas
 #base_url=http://alpha.gnu.org/gnu/aeneas
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/aeneas/

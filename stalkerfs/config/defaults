@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/stalkerfs
+base_url=ftp://mirror.rit.edu/gnu/gnu/stalkerfs
 #base_url=http://alpha.gnu.org/gnu/stalkerfs
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/stalkerfs/

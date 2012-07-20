@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/smalltalk
+base_url=ftp://mirror.rit.edu/gnu/gnu/smalltalk
 #base_url=http://alpha.gnu.org/gnu/smalltalk
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/smalltalk/

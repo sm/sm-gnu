@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/xorriso
+base_url=ftp://mirror.rit.edu/gnu/gnu/xorriso
 #base_url=http://alpha.gnu.org/gnu/xorriso
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/xorriso/

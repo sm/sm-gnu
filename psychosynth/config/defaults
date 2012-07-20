@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/psychosynth
+base_url=ftp://mirror.rit.edu/gnu/gnu/psychosynth
 #base_url=http://alpha.gnu.org/gnu/psychosynth
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/psychosynth/

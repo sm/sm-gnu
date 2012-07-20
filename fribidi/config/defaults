@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/fribidi
+base_url=ftp://mirror.rit.edu/gnu/gnu/fribidi
 #base_url=http://alpha.gnu.org/gnu/fribidi
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/fribidi/

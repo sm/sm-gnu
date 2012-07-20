@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/nano
+base_url=ftp://mirror.rit.edu/gnu/gnu/nano
 #base_url=http://alpha.gnu.org/gnu/nano
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/nano/

@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/vc-dwim
+base_url=ftp://mirror.rit.edu/gnu/gnu/vc-dwim
 #base_url=http://alpha.gnu.org/gnu/vc-dwim
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/vc-dwim/

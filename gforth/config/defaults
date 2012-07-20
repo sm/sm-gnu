@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gforth
+base_url=ftp://mirror.rit.edu/gnu/gnu/gforth
 #base_url=http://alpha.gnu.org/gnu/gforth
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gforth/

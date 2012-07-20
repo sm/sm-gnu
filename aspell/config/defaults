@@ -1,5 +1,5 @@
 version=lang-20101122
-base_url=ftp://mirror.rit.edu/gnu/aspell
+base_url=ftp://mirror.rit.edu/gnu/gnu/aspell
 #base_url=http://alpha.gnu.org/gnu/aspell
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/aspell/

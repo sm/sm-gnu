@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/guile
+base_url=ftp://mirror.rit.edu/gnu/gnu/guile
 #base_url=http://alpha.gnu.org/gnu/guile
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/guile/

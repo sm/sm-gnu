@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/ocrad
+base_url=ftp://mirror.rit.edu/gnu/gnu/ocrad
 #base_url=http://alpha.gnu.org/gnu/ocrad
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/ocrad/

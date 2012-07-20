@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/swbis
+base_url=ftp://mirror.rit.edu/gnu/gnu/swbis
 #base_url=http://alpha.gnu.org/gnu/swbis
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/swbis/

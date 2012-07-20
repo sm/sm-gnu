@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/vcdimager
+base_url=ftp://mirror.rit.edu/gnu/gnu/vcdimager
 #base_url=http://alpha.gnu.org/gnu/vcdimager
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/vcdimager/

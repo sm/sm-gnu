@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/bpel2owfn
+base_url=ftp://mirror.rit.edu/gnu/gnu/bpel2owfn
 #base_url=http://alpha.gnu.org/gnu/bpel2owfn
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/bpel2owfn/

@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/texinfo
+base_url=ftp://mirror.rit.edu/gnu/gnu/texinfo
 #base_url=http://alpha.gnu.org/gnu/texinfo
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/texinfo/

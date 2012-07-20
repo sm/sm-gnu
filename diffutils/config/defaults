@@ -1,5 +1,5 @@
 version=3.0
-base_url=ftp://mirror.rit.edu/gnu/diffutils
+base_url=ftp://mirror.rit.edu/gnu/gnu/diffutils
 #base_url=http://alpha.gnu.org/gnu/diffutils
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/diffutils/

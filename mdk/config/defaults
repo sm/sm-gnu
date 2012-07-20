@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/mdk
+base_url=ftp://mirror.rit.edu/gnu/gnu/mdk
 #base_url=http://alpha.gnu.org/gnu/mdk
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/mdk/

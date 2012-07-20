@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/libcdio
+base_url=ftp://mirror.rit.edu/gnu/gnu/libcdio
 #base_url=http://alpha.gnu.org/gnu/libcdio
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/libcdio/

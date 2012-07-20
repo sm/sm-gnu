@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/xaos
+base_url=ftp://mirror.rit.edu/gnu/gnu/xaos
 #base_url=http://alpha.gnu.org/gnu/xaos
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/xaos/

@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/slib
+base_url=ftp://mirror.rit.edu/gnu/gnu/slib
 #base_url=http://alpha.gnu.org/gnu/slib
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/slib/

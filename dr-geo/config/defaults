@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/dr-geo
+base_url=ftp://mirror.rit.edu/gnu/gnu/dr-geo
 #base_url=http://alpha.gnu.org/gnu/dr-geo
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/dr-geo/

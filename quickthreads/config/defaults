@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/quickthreads
+base_url=ftp://mirror.rit.edu/gnu/gnu/quickthreads
 #base_url=http://alpha.gnu.org/gnu/quickthreads
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/quickthreads/

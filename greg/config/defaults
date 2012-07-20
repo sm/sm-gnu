@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/greg
+base_url=ftp://mirror.rit.edu/gnu/gnu/greg
 #base_url=http://alpha.gnu.org/gnu/greg
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/greg/

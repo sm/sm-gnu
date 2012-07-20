@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnome
+base_url=ftp://mirror.rit.edu/gnu/gnu/gnome
 #base_url=http://alpha.gnu.org/gnu/gnome
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gnome/

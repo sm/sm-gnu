@@ -1,5 +1,5 @@
 version=1.3.0
-base_url=ftp://mirror.rit.edu/gnu/dionysus
+base_url=ftp://mirror.rit.edu/gnu/gnu/dionysus
 #base_url=http://alpha.gnu.org/gnu/dionysus
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/dionysus/

@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/commoncpp
+base_url=ftp://mirror.rit.edu/gnu/gnu/commoncpp
 #base_url=http://alpha.gnu.org/gnu/commoncpp
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/commoncpp/

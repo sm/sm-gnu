@@ -1,5 +1,5 @@
 version=4.0.0
-base_url=ftp://mirror.rit.edu/gnu/gawk/
+base_url=ftp://mirror.rit.edu/gnu/gnu/gawk/
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gawk/
 docs_url=http://www.gnu.org/software/gawk/manual/html_node/index.html

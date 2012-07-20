@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/groff
+base_url=ftp://mirror.rit.edu/gnu/gnu/groff
 #base_url=http://alpha.gnu.org/gnu/groff
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/groff/

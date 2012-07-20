@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/libffcall
+base_url=ftp://mirror.rit.edu/gnu/gnu/libffcall
 #base_url=http://alpha.gnu.org/gnu/libffcall
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/libffcall/

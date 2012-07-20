@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/units
+base_url=ftp://mirror.rit.edu/gnu/gnu/units
 #base_url=http://alpha.gnu.org/gnu/units
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/units/

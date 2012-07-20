@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/tramp
+base_url=ftp://mirror.rit.edu/gnu/gnu/tramp
 #base_url=http://alpha.gnu.org/gnu/tramp
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/tramp/

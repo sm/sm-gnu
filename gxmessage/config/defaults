@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gxmessage
+base_url=ftp://mirror.rit.edu/gnu/gnu/gxmessage
 #base_url=http://alpha.gnu.org/gnu/gxmessage
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gxmessage/

@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/pipo
+base_url=ftp://mirror.rit.edu/gnu/gnu/pipo
 #base_url=http://alpha.gnu.org/gnu/pipo
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/pipo/

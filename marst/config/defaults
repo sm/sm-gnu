@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/marst
+base_url=ftp://mirror.rit.edu/gnu/gnu/marst
 #base_url=http://alpha.gnu.org/gnu/marst
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/marst/

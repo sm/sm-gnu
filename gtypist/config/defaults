@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gtypist
+base_url=ftp://mirror.rit.edu/gnu/gnu/gtypist
 #base_url=http://alpha.gnu.org/gnu/gtypist
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gtypist/

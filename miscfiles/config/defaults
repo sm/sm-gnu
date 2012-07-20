@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/miscfiles
+base_url=ftp://mirror.rit.edu/gnu/gnu/miscfiles
 #base_url=http://alpha.gnu.org/gnu/miscfiles
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/miscfiles/

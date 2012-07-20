@@ -1,5 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/edma
+base_url=ftp://mirror.rit.edu/gnu/gnu/edma
 #base_url=http://alpha.gnu.org/gnu/edma
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/edma/

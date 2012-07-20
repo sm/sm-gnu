@@ -1,5 +1,5 @@
 version=3.0.1
-base_url=ftp://mirror.rit.edu/gnu/mpfr
+base_url=ftp://mirror.rit.edu/gnu/gnu/mpfr
 #base_url=http://alpha.gnu.org/gnu/mpfr
 archive_format=tar.bz2
 website_url=http://www.gnu.org/software/mpfr/
