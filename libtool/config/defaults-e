@@ -5,3 +5,4 @@ archive_format=tar.gz
 website_url=http://www.gnu.org/software/libtool/
 docs_url=http://www.gnu.org/software/libtool/man.html
 configure_flag_static=--disable-shared
+

@@ -5,3 +5,4 @@ archive_format=tar.gz
 website_url=http://www.gnu.org/software/autoconf/
 docs_url=http://www.gnu.org/software/autoconf/man.html
 configure_flag_static=--disable-shared
+

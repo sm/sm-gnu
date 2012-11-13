@@ -5,3 +5,4 @@ archive_format=tar.gz
 website_url=http://www.gnu.org/software/automake/
 docs_url=http://www.gnu.org/software/automake/man.html
 configure_flag_static=--disable-shared
+
