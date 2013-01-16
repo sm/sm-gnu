@@ -1,6 +1,5 @@
-version=2.68
-base_url=ftp://mirror.rit.edu/gnu/gnu/autoconf
-#base_url=http://alpha.gnu.org/gnu/autoconf
+version=2.69
+base_url=http://ftpmirror.gnu.org/autoconf/
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/autoconf/
 docs_url=http://www.gnu.org/software/autoconf/man.html

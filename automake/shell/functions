@@ -1,0 +1,6 @@
+#!/bin/zsh
+
+automake_preconfigure()
+{
+  autoreconf
+}
