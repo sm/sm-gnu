@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnukart
-#base_url=http://alpha.gnu.org/gnu/gnukart
+base_url=http://ftpmirror.gnu.org/gnukart ftp://ftp.gnu.org/gnu/gnukart
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gnukart/
 docs_url=http://www.gnu.org/software/gnukart/man.html

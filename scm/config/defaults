@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/scm
-#base_url=http://alpha.gnu.org/gnu/scm
+base_url=http://ftpmirror.gnu.org/scm ftp://ftp.gnu.org/gnu/scm
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/scm/
 docs_url=http://www.gnu.org/software/scm/man.html

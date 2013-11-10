@@ -1,6 +1,5 @@
 version=1.15
-base_url=ftp://mirror.rit.edu/gnu/gnu/cppi
-#base_url=http://alpha.gnu.org/gnu/cppi
+base_url=http://ftpmirror.gnu.org/cppi ftp://ftp.gnu.org/gnu/cppi
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/cppi/
 docs_url=http://www.gnu.org/software/cppi/man.html

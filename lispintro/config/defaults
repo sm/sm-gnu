@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/lispintro
-#base_url=http://alpha.gnu.org/gnu/lispintro
+base_url=http://ftpmirror.gnu.org/lispintro ftp://ftp.gnu.org/gnu/lispintro
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/lispintro/
 docs_url=http://www.gnu.org/software/lispintro/man.html

@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/classpathx
-#base_url=http://alpha.gnu.org/gnu/classpathx
+base_url=http://ftpmirror.gnu.org/classpathx ftp://ftp.gnu.org/gnu/classpathx
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/classpathx/
 docs_url=http://www.gnu.org/software/classpathx/man.html

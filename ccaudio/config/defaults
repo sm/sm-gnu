@@ -1,6 +1,5 @@
 version=1.2.0
-base_url=ftp://mirror.rit.edu/gnu/gnu/ccaudio
-#base_url=http://alpha.gnu.org/gnu/ccaudio
+base_url=http://ftpmirror.gnu.org/ccaudio ftp://ftp.gnu.org/gnu/ccaudio
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/ccaudio/
 docs_url=http://www.gnu.org/software/ccaudio/man.html

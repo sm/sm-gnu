@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/motti
-#base_url=http://alpha.gnu.org/gnu/motti
+base_url=http://ftpmirror.gnu.org/motti ftp://ftp.gnu.org/gnu/motti
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/motti/
 docs_url=http://www.gnu.org/software/motti/man.html

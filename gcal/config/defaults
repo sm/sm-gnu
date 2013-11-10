@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/gcal
-#base_url=http://alpha.gnu.org/gnu/gcal
+base_url=http://ftpmirror.gnu.org/gcal ftp://ftp.gnu.org/gnu/gcal
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gcal/
 docs_url=http://www.gnu.org/software/gcal/man.html

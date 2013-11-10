@@ -1,6 +1,5 @@
 version=3.7
-base_url=ftp://mirror.rit.edu/gnu/gnu/dap
-#base_url=http://alpha.gnu.org/gnu/dap
+base_url=http://ftpmirror.gnu.org/dap ftp://ftp.gnu.org/gnu/dap
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/dap/
 docs_url=http://www.gnu.org/software/dap/man.html

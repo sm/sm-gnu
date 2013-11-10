@@ -1,6 +1,5 @@
 version=3.2.9
-base_url=ftp://mirror.rit.edu/gnu/gnu/cgicc
-#base_url=http://alpha.gnu.org/gnu/cgicc
+base_url=http://ftpmirror.gnu.org/cgicc ftp://ftp.gnu.org/gnu/cgicc
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/cgicc/
 docs_url=http://www.gnu.org/software/cgicc/man.html

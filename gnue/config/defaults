@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnue
-#base_url=http://alpha.gnu.org/gnu/gnue
+base_url=http://ftpmirror.gnu.org/gnue ftp://ftp.gnu.org/gnu/gnue
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gnue/
 docs_url=http://www.gnu.org/software/gnue/man.html

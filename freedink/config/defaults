@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/freedink
-#base_url=http://alpha.gnu.org/gnu/freedink
+base_url=http://ftpmirror.gnu.org/freedink ftp://ftp.gnu.org/gnu/freedink
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/freedink/
 docs_url=http://www.gnu.org/software/freedink/man.html

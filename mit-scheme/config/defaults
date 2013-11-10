@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/mit-scheme
-#base_url=http://alpha.gnu.org/gnu/mit-scheme
+base_url=http://ftpmirror.gnu.org/mit-scheme ftp://ftp.gnu.org/gnu/mit-scheme
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/mit-scheme/
 docs_url=http://www.gnu.org/software/mit-scheme/man.html

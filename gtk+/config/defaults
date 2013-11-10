@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/gtk+
-#base_url=http://alpha.gnu.org/gnu/gtk+
+base_url=http://ftpmirror.gnu.org/gtk+ ftp://ftp.gnu.org/gnu/gtk+
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gtk+/
 docs_url=http://www.gnu.org/software/gtk+/man.html

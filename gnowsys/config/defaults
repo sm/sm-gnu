@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/gnowsys
-#base_url=http://alpha.gnu.org/gnu/gnowsys
+base_url=http://ftpmirror.gnu.org/gnowsys ftp://ftp.gnu.org/gnu/gnowsys
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gnowsys/
 docs_url=http://www.gnu.org/software/gnowsys/man.html

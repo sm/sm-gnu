@@ -1,6 +1,5 @@
 version=1.3
-base_url=ftp://mirror.rit.edu/gnu/gnu/adns
-#base_url=http://alpha.gnu.org/gnu/adns
+base_url=http://ftpmirror.gnu.org/adns ftp://ftp.gnu.org/gnu/adns
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/adns/
 docs_url=http://www.gnu.org/software/adns/man.html

@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/xhippo
-#base_url=http://alpha.gnu.org/gnu/xhippo
+base_url=http://ftpmirror.gnu.org/xhippo ftp://ftp.gnu.org/gnu/xhippo
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/xhippo/
 docs_url=http://www.gnu.org/software/xhippo/man.html

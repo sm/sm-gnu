@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/libtasn1
-#base_url=http://alpha.gnu.org/gnu/libtasn1
+base_url=http://ftpmirror.gnu.org/libtasn1 ftp://ftp.gnu.org/gnu/libtasn1
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/libtasn1/
 docs_url=http://www.gnu.org/software/libtasn1/man.html

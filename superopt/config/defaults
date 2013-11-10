@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/superopt
-#base_url=http://alpha.gnu.org/gnu/superopt
+base_url=http://ftpmirror.gnu.org/superopt ftp://ftp.gnu.org/gnu/superopt
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/superopt/
 docs_url=http://www.gnu.org/software/superopt/man.html

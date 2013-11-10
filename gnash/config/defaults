@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/gnash
-#base_url=http://alpha.gnu.org/gnu/gnash
+base_url=http://ftpmirror.gnu.org/gnash ftp://ftp.gnu.org/gnu/gnash
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gnash/
 docs_url=http://www.gnu.org/software/gnash/man.html

@@ -1,6 +1,5 @@
 version=2.9
-base_url=ftp://mirror.rit.edu/gnu/gnu/cpio
-#base_url=http://alpha.gnu.org/gnu/cpio
+base_url=http://ftpmirror.gnu.org/cpio ftp://ftp.gnu.org/gnu/cpio
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/cpio/
 docs_url=http://www.gnu.org/software/cpio/man.html

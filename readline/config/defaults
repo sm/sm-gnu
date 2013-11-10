@@ -1,5 +1,5 @@
 version=6.2
-base_url=ftp://mirror.rit.edu/gnu/gnu/readline
+base_url=http://ftpmirror.gnu.org/readline ftp://ftp.gnu.org/gnu/readline
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/readline/
 docs_url=http://www.gnu.org/software/readline/man.html

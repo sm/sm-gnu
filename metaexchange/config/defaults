@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/metaexchange
-#base_url=http://alpha.gnu.org/gnu/metaexchange
+base_url=http://ftpmirror.gnu.org/metaexchange ftp://ftp.gnu.org/gnu/metaexchange
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/metaexchange/
 docs_url=http://www.gnu.org/software/metaexchange/man.html

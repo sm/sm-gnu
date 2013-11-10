@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/lilypond
-#base_url=http://alpha.gnu.org/gnu/lilypond
+base_url=http://ftpmirror.gnu.org/lilypond ftp://ftp.gnu.org/gnu/lilypond
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/lilypond/
 docs_url=http://www.gnu.org/software/lilypond/man.html

@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/gv
-#base_url=http://alpha.gnu.org/gnu/gv
+base_url=http://ftpmirror.gnu.org/gv ftp://ftp.gnu.org/gnu/gv
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gv/
 docs_url=http://www.gnu.org/software/gv/man.html

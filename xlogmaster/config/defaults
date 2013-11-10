@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/xlogmaster
-#base_url=http://alpha.gnu.org/gnu/xlogmaster
+base_url=http://ftpmirror.gnu.org/xlogmaster ftp://ftp.gnu.org/gnu/xlogmaster
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/xlogmaster/
 docs_url=http://www.gnu.org/software/xlogmaster/man.html

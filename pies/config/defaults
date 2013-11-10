@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/pies
-#base_url=http://alpha.gnu.org/gnu/pies
+base_url=http://ftpmirror.gnu.org/pies ftp://ftp.gnu.org/gnu/pies
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/pies/
 docs_url=http://www.gnu.org/software/pies/man.html

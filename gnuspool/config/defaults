@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnuspool
-#base_url=http://alpha.gnu.org/gnu/gnuspool
+base_url=http://ftpmirror.gnu.org/gnuspool ftp://ftp.gnu.org/gnu/gnuspool
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gnuspool/
 docs_url=http://www.gnu.org/software/gnuspool/man.html

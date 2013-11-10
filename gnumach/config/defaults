@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnumach
-#base_url=http://alpha.gnu.org/gnu/gnumach
+base_url=http://ftpmirror.gnu.org/gnumach ftp://ftp.gnu.org/gnu/gnumach
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gnumach/
 docs_url=http://www.gnu.org/software/gnumach/man.html

@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/bfd
-#base_url=http://alpha.gnu.org/gnu/bfd
+base_url=http://ftpmirror.gnu.org/bfd ftp://ftp.gnu.org/gnu/bfd
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/bfd/
 docs_url=http://www.gnu.org/software/bfd/man.html

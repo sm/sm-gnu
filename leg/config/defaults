@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/leg
-#base_url=http://alpha.gnu.org/gnu/leg
+base_url=http://ftpmirror.gnu.org/leg ftp://ftp.gnu.org/gnu/leg
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/leg/
 docs_url=http://www.gnu.org/software/leg/man.html

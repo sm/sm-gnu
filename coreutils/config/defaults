@@ -1,6 +1,5 @@
 version=8.9
-base_url=ftp://mirror.rit.edu/gnu/gnu/coreutils
-#base_url=http://alpha.gnu.org/gnu/coreutils
+base_url=http://ftpmirror.gnu.org/coreutils ftp://ftp.gnu.org/gnu/coreutils
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/coreutils/
 docs_url=http://www.gnu.org/software/coreutils/man.html

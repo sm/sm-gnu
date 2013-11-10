@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnufm
-#base_url=http://alpha.gnu.org/gnu/gnufm
+base_url=http://ftpmirror.gnu.org/gnufm ftp://ftp.gnu.org/gnu/gnufm
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gnufm/
 docs_url=http://www.gnu.org/software/gnufm/man.html

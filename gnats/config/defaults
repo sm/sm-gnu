@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/gnats
-#base_url=http://alpha.gnu.org/gnu/gnats
+base_url=http://ftpmirror.gnu.org/gnats ftp://ftp.gnu.org/gnu/gnats
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gnats/
 docs_url=http://www.gnu.org/software/gnats/man.html

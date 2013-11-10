@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/moe
-#base_url=http://alpha.gnu.org/gnu/moe
+base_url=http://ftpmirror.gnu.org/moe ftp://ftp.gnu.org/gnu/moe
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/moe/
 docs_url=http://www.gnu.org/software/moe/man.html

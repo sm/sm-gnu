@@ -1,5 +1,5 @@
 version=2.9
-base_url=ftp://mirror.rit.edu/gnu/gnu/lsh
+base_url=http://ftpmirror.gnu.org/lsh ftp://ftp.gnu.org/gnu/lsh
 archive_format=tar.gz
 website_url=http://www.lysator.liu.se/~nisse/lsh
 docs_url=http://www.lysator.liu.se/~nisse/lsh/lsh.html

@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/unrtf
-#base_url=http://alpha.gnu.org/gnu/unrtf
+base_url=http://ftpmirror.gnu.org/unrtf ftp://ftp.gnu.org/gnu/unrtf
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/unrtf/
 docs_url=http://www.gnu.org/software/unrtf/man.html

@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/gretl
-#base_url=http://alpha.gnu.org/gnu/gretl
+base_url=http://ftpmirror.gnu.org/gretl ftp://ftp.gnu.org/gnu/gretl
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gretl/
 docs_url=http://www.gnu.org/software/gretl/man.html

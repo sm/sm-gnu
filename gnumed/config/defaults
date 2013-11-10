@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnumed
-#base_url=http://alpha.gnu.org/gnu/gnumed
+base_url=http://ftpmirror.gnu.org/gnumed ftp://ftp.gnu.org/gnu/gnumed
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gnumed/
 docs_url=http://www.gnu.org/software/gnumed/man.html

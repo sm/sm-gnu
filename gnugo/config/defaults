@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnugo
-#base_url=http://alpha.gnu.org/gnu/gnugo
+base_url=http://ftpmirror.gnu.org/gnugo ftp://ftp.gnu.org/gnu/gnugo
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gnugo/
 docs_url=http://www.gnu.org/software/gnugo/man.html

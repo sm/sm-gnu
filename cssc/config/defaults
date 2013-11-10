@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/cssc
-#base_url=http://alpha.gnu.org/gnu/cssc
+base_url=http://ftpmirror.gnu.org/cssc ftp://ftp.gnu.org/gnu/cssc
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/cssc/
 docs_url=http://www.gnu.org/software/cssc/man.html

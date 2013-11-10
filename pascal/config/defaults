@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/pascal
-#base_url=http://alpha.gnu.org/gnu/pascal
+base_url=http://ftpmirror.gnu.org/pascal ftp://ftp.gnu.org/gnu/pascal
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/pascal/
 docs_url=http://www.gnu.org/software/pascal/man.html

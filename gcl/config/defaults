@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/gcl
-#base_url=http://alpha.gnu.org/gnu/gcl
+base_url=http://ftpmirror.gnu.org/gcl ftp://ftp.gnu.org/gnu/gcl
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gcl/
 docs_url=http://www.gnu.org/software/gcl/man.html

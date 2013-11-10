@@ -1,6 +1,5 @@
 version=2.0.3.text.gz
-base_url=ftp://mirror.rit.edu/gnu/gnu/avl
-#base_url=http://alpha.gnu.org/gnu/avl
+base_url=http://ftpmirror.gnu.org/avl ftp://ftp.gnu.org/gnu/avl
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/avl/
 docs_url=http://www.gnu.org/software/avl/man.html

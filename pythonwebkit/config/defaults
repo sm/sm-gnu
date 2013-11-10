@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/pythonwebkit
-#base_url=http://alpha.gnu.org/gnu/pythonwebkit
+base_url=http://ftpmirror.gnu.org/pythonwebkit ftp://ftp.gnu.org/gnu/pythonwebkit
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/pythonwebkit/
 docs_url=http://www.gnu.org/software/pythonwebkit/man.html

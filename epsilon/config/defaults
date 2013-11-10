@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/epsilon
-#base_url=http://alpha.gnu.org/gnu/epsilon
+base_url=http://ftpmirror.gnu.org/epsilon ftp://ftp.gnu.org/gnu/epsilon
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/epsilon/
 docs_url=http://www.gnu.org/software/epsilon/man.html

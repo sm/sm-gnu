@@ -1,6 +1,5 @@
 version=0.98
-base_url=ftp://mirror.rit.edu/gnu/gnu/classpath
-#base_url=http://alpha.gnu.org/gnu/classpath
+base_url=http://ftpmirror.gnu.org/classpath ftp://ftp.gnu.org/gnu/classpath
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/classpath/
 docs_url=http://www.gnu.org/software/classpath/man.html

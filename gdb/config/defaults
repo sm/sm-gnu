@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/gdb
-#base_url=http://alpha.gnu.org/gnu/gdb
+base_url=http://ftpmirror.gnu.org/gdb ftp://ftp.gnu.org/gnu/gdb
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gdb/
 docs_url=http://www.gnu.org/software/gdb/man.html

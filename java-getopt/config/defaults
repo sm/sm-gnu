@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/java-getopt
-#base_url=http://alpha.gnu.org/gnu/java-getopt
+base_url=http://ftpmirror.gnu.org/java-getopt ftp://ftp.gnu.org/gnu/java-getopt
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/java-getopt/
 docs_url=http://www.gnu.org/software/java-getopt/man.html

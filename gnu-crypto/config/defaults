@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu-crypto
-#base_url=http://alpha.gnu.org/gnu/gnu-crypto
+base_url=http://ftpmirror.gnu.org/gnu-crypto ftp://ftp.gnu.org/gnu/gnu-crypto
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gnu-crypto/
 docs_url=http://www.gnu.org/software/gnu-crypto/man.html

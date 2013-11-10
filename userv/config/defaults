@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/userv
-#base_url=http://alpha.gnu.org/gnu/userv
+base_url=http://ftpmirror.gnu.org/userv ftp://ftp.gnu.org/gnu/userv
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/userv/
 docs_url=http://www.gnu.org/software/userv/man.html

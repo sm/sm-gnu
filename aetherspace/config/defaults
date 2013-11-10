@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/aetherspace
-#base_url=http://alpha.gnu.org/gnu/aetherspace
+base_url=http://ftpmirror.gnu.org/aetherspace ftp://ftp.gnu.org/gnu/aetherspace
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/aetherspace/
 docs_url=http://www.gnu.org/software/aetherspace/man.html

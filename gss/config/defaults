@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/gss
-#base_url=http://alpha.gnu.org/gnu/gss
+base_url=http://ftpmirror.gnu.org/gss ftp://ftp.gnu.org/gnu/gss
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gss/
 docs_url=http://www.gnu.org/software/gss/man.html

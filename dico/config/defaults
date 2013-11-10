@@ -1,6 +1,5 @@
 version=2.1
-base_url=ftp://mirror.rit.edu/gnu/gnu/dico
-#base_url=http://alpha.gnu.org/gnu/dico
+base_url=http://ftpmirror.gnu.org/dico ftp://ftp.gnu.org/gnu/dico
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/dico/
 docs_url=http://www.gnu.org/software/dico/man.html

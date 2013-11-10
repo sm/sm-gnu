@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/config
-#base_url=http://alpha.gnu.org/gnu/config
+base_url=http://ftpmirror.gnu.org/config ftp://ftp.gnu.org/gnu/config
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/config/
 docs_url=http://www.gnu.org/software/config/man.html

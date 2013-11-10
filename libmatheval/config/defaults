@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/libmatheval
-#base_url=http://alpha.gnu.org/gnu/libmatheval
+base_url=http://ftpmirror.gnu.org/libmatheval ftp://ftp.gnu.org/gnu/libmatheval
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/libmatheval/
 docs_url=http://www.gnu.org/software/libmatheval/man.html

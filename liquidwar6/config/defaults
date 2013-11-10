@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/liquidwar6
-#base_url=http://alpha.gnu.org/gnu/liquidwar6
+base_url=http://ftpmirror.gnu.org/liquidwar6 ftp://ftp.gnu.org/gnu/liquidwar6
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/liquidwar6/
 docs_url=http://www.gnu.org/software/liquidwar6/man.html

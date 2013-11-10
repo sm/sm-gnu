@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/radius
-#base_url=http://alpha.gnu.org/gnu/radius
+base_url=http://ftpmirror.gnu.org/radius ftp://ftp.gnu.org/gnu/radius
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/radius/
 docs_url=http://www.gnu.org/software/radius/man.html

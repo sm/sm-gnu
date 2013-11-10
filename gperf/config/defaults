@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/gperf
-#base_url=http://alpha.gnu.org/gnu/gperf
+base_url=http://ftpmirror.gnu.org/gperf ftp://ftp.gnu.org/gnu/gperf
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gperf/
 docs_url=http://www.gnu.org/software/gperf/man.html

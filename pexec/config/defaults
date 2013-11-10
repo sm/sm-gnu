@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/pexec
-#base_url=http://alpha.gnu.org/gnu/pexec
+base_url=http://ftpmirror.gnu.org/pexec ftp://ftp.gnu.org/gnu/pexec
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/pexec/
 docs_url=http://www.gnu.org/software/pexec/man.html

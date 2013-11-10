@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/trueprint
-#base_url=http://alpha.gnu.org/gnu/trueprint
+base_url=http://ftpmirror.gnu.org/trueprint ftp://ftp.gnu.org/gnu/trueprint
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/trueprint/
 docs_url=http://www.gnu.org/software/trueprint/man.html

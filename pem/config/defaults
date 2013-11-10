@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/pem
-#base_url=http://alpha.gnu.org/gnu/pem
+base_url=http://ftpmirror.gnu.org/pem ftp://ftp.gnu.org/gnu/pem
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/pem/
 docs_url=http://www.gnu.org/software/pem/man.html

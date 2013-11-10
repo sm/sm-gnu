@@ -1,6 +1,5 @@
 version=1.4.16
-base_url=ftp://mirror.rit.edu/gnu/gnu/m4
-#base_url=http://alpha.gnu.org/gnu/m4
+base_url=http://ftpmirror.gnu.org/m4 ftp://ftp.gnu.org/gnu/m4
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/m4/
 docs_url=http://www.gnu.org/software/m4/man.html

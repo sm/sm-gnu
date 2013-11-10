@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/halifax
-#base_url=http://alpha.gnu.org/gnu/halifax
+base_url=http://ftpmirror.gnu.org/halifax ftp://ftp.gnu.org/gnu/halifax
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/halifax/
 docs_url=http://www.gnu.org/software/halifax/man.html

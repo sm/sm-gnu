@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/rottlog
-#base_url=http://alpha.gnu.org/gnu/rottlog
+base_url=http://ftpmirror.gnu.org/rottlog ftp://ftp.gnu.org/gnu/rottlog
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/rottlog/
 docs_url=http://www.gnu.org/software/rottlog/man.html

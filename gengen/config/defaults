@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/gengen
-#base_url=http://alpha.gnu.org/gnu/gengen
+base_url=http://ftpmirror.gnu.org/gengen ftp://ftp.gnu.org/gnu/gengen
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gengen/
 docs_url=http://www.gnu.org/software/gengen/man.html

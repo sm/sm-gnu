@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/inetutils
-#base_url=http://alpha.gnu.org/gnu/inetutils
+base_url=http://ftpmirror.gnu.org/inetutils ftp://ftp.gnu.org/gnu/inetutils
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/inetutils/
 docs_url=http://www.gnu.org/software/inetutils/man.html

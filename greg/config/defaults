@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/greg
-#base_url=http://alpha.gnu.org/gnu/greg
+base_url=http://ftpmirror.gnu.org/greg ftp://ftp.gnu.org/gnu/greg
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/greg/
 docs_url=http://www.gnu.org/software/greg/man.html

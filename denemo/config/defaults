@@ -1,6 +1,5 @@
 version=0.9.0.exe
-base_url=ftp://mirror.rit.edu/gnu/gnu/denemo
-#base_url=http://alpha.gnu.org/gnu/denemo
+base_url=http://ftpmirror.gnu.org/denemo ftp://ftp.gnu.org/gnu/denemo
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/denemo/
 docs_url=http://www.gnu.org/software/denemo/man.html

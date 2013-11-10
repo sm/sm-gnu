@@ -1,6 +1,5 @@
 version=5.1
-base_url=ftp://mirror.rit.edu/gnu/gnu/acm
-#base_url=http://alpha.gnu.org/gnu/acm
+base_url=http://ftpmirror.gnu.org/acm ftp://ftp.gnu.org/gnu/acm
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/acm/
 docs_url=http://www.gnu.org/software/acm/man.html

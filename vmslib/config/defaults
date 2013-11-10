@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/vmslib
-#base_url=http://alpha.gnu.org/gnu/vmslib
+base_url=http://ftpmirror.gnu.org/vmslib ftp://ftp.gnu.org/gnu/vmslib
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/vmslib/
 docs_url=http://www.gnu.org/software/vmslib/man.html

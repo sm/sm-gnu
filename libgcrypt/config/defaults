@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/libgcrypt
-#base_url=http://alpha.gnu.org/gnu/libgcrypt
+base_url=http://ftpmirror.gnu.org/libgcrypt ftp://ftp.gnu.org/gnu/libgcrypt
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/libgcrypt/
 docs_url=http://www.gnu.org/software/libgcrypt/man.html

@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/webstump
-#base_url=http://alpha.gnu.org/gnu/webstump
+base_url=http://ftpmirror.gnu.org/webstump ftp://ftp.gnu.org/gnu/webstump
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/webstump/
 docs_url=http://www.gnu.org/software/webstump/man.html

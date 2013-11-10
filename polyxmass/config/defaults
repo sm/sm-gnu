@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/polyxmass
-#base_url=http://alpha.gnu.org/gnu/polyxmass
+base_url=http://ftpmirror.gnu.org/polyxmass ftp://ftp.gnu.org/gnu/polyxmass
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/polyxmass/
 docs_url=http://www.gnu.org/software/polyxmass/man.html

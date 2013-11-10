@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/src-highlite
-#base_url=http://alpha.gnu.org/gnu/src-highlite
+base_url=http://ftpmirror.gnu.org/src-highlite ftp://ftp.gnu.org/gnu/src-highlite
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/src-highlite/
 docs_url=http://www.gnu.org/software/src-highlite/man.html

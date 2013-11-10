@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/fontutils
-#base_url=http://alpha.gnu.org/gnu/fontutils
+base_url=http://ftpmirror.gnu.org/fontutils ftp://ftp.gnu.org/gnu/fontutils
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/fontutils/
 docs_url=http://www.gnu.org/software/fontutils/man.html

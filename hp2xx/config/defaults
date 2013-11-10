@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/hp2xx
-#base_url=http://alpha.gnu.org/gnu/hp2xx
+base_url=http://ftpmirror.gnu.org/hp2xx ftp://ftp.gnu.org/gnu/hp2xx
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/hp2xx/
 docs_url=http://www.gnu.org/software/hp2xx/man.html

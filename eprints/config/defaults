@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/eprints
-#base_url=http://alpha.gnu.org/gnu/eprints
+base_url=http://ftpmirror.gnu.org/eprints ftp://ftp.gnu.org/gnu/eprints
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/eprints/
 docs_url=http://www.gnu.org/software/eprints/man.html

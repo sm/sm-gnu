@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnujdoc
-#base_url=http://alpha.gnu.org/gnu/gnujdoc
+base_url=http://ftpmirror.gnu.org/gnujdoc ftp://ftp.gnu.org/gnu/gnujdoc
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gnujdoc/
 docs_url=http://www.gnu.org/software/gnujdoc/man.html

@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/mig
-#base_url=http://alpha.gnu.org/gnu/mig
+base_url=http://ftpmirror.gnu.org/mig ftp://ftp.gnu.org/gnu/mig
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/mig/
 docs_url=http://www.gnu.org/software/mig/man.html

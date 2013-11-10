@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnump3d
-#base_url=http://alpha.gnu.org/gnu/gnump3d
+base_url=http://ftpmirror.gnu.org/gnump3d ftp://ftp.gnu.org/gnu/gnump3d
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gnump3d/
 docs_url=http://www.gnu.org/software/gnump3d/man.html

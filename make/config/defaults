@@ -1,6 +1,5 @@
 version=3.82
-base_url=ftp://mirror.rit.edu/gnu/gnu/make
-#base_url=http://alpha.gnu.org/gnu/make
+base_url=http://ftpmirror.gnu.org/make ftp://ftp.gnu.org/gnu/make
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/make/
 docs_url=http://www.gnu.org/software/make/man.html

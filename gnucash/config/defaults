@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnucash
-#base_url=http://alpha.gnu.org/gnu/gnucash
+base_url=http://ftpmirror.gnu.org/gnucash ftp://ftp.gnu.org/gnu/gnucash
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gnucash/
 docs_url=http://www.gnu.org/software/gnucash/man.html

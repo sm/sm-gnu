@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/indent
-#base_url=http://alpha.gnu.org/gnu/indent
+base_url=http://ftpmirror.gnu.org/indent ftp://ftp.gnu.org/gnu/indent
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/indent/
 docs_url=http://www.gnu.org/software/indent/man.html

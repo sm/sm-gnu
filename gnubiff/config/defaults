@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnubiff
-#base_url=http://alpha.gnu.org/gnu/gnubiff
+base_url=http://ftpmirror.gnu.org/gnubiff ftp://ftp.gnu.org/gnu/gnubiff
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gnubiff/
 docs_url=http://www.gnu.org/software/gnubiff/man.html

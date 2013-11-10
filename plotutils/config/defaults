@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/plotutils
-#base_url=http://alpha.gnu.org/gnu/plotutils
+base_url=http://ftpmirror.gnu.org/plotutils ftp://ftp.gnu.org/gnu/plotutils
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/plotutils/
 docs_url=http://www.gnu.org/software/plotutils/man.html

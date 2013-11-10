@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnustep
-#base_url=http://alpha.gnu.org/gnu/gnustep
+base_url=http://ftpmirror.gnu.org/gnustep ftp://ftp.gnu.org/gnu/gnustep
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gnustep/
 docs_url=http://www.gnu.org/software/gnustep/man.html

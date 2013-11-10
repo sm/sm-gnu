@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnubatch
-#base_url=http://alpha.gnu.org/gnu/gnubatch
+base_url=http://ftpmirror.gnu.org/gnubatch ftp://ftp.gnu.org/gnu/gnubatch
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gnubatch/
 docs_url=http://www.gnu.org/software/gnubatch/man.html

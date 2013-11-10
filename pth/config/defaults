@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/pth
-#base_url=http://alpha.gnu.org/gnu/pth
+base_url=http://ftpmirror.gnu.org/pth ftp://ftp.gnu.org/gnu/pth
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/pth/
 docs_url=http://www.gnu.org/software/pth/man.html

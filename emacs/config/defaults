@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/emacs
-#base_url=http://alpha.gnu.org/gnu/emacs
+base_url=http://ftpmirror.gnu.org/emacs ftp://ftp.gnu.org/gnu/emacs
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/emacs/
 docs_url=http://www.gnu.org/software/emacs/man.html

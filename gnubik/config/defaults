@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnubik
-#base_url=http://alpha.gnu.org/gnu/gnubik
+base_url=http://ftpmirror.gnu.org/gnubik ftp://ftp.gnu.org/gnu/gnubik
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gnubik/
 docs_url=http://www.gnu.org/software/gnubik/man.html

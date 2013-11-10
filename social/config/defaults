@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/social
-#base_url=http://alpha.gnu.org/gnu/social
+base_url=http://ftpmirror.gnu.org/social ftp://ftp.gnu.org/gnu/social
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/social/
 docs_url=http://www.gnu.org/software/social/man.html

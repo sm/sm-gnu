@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/goodbye
-#base_url=http://alpha.gnu.org/gnu/goodbye
+base_url=http://ftpmirror.gnu.org/goodbye ftp://ftp.gnu.org/gnu/goodbye
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/goodbye/
 docs_url=http://www.gnu.org/software/goodbye/man.html

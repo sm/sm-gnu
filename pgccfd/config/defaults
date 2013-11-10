@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/pgccfd
-#base_url=http://alpha.gnu.org/gnu/pgccfd
+base_url=http://ftpmirror.gnu.org/pgccfd ftp://ftp.gnu.org/gnu/pgccfd
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/pgccfd/
 docs_url=http://www.gnu.org/software/pgccfd/man.html

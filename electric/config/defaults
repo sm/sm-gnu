@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/electric
-#base_url=http://alpha.gnu.org/gnu/electric
+base_url=http://ftpmirror.gnu.org/electric ftp://ftp.gnu.org/gnu/electric
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/electric/
 docs_url=http://www.gnu.org/software/electric/man.html

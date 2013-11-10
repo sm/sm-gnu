@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu-c-manual
-#base_url=http://alpha.gnu.org/gnu/gnu-c-manual
+base_url=http://ftpmirror.gnu.org/gnu-c-manual ftp://ftp.gnu.org/gnu/gnu-c-manual
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gnu-c-manual/
 docs_url=http://www.gnu.org/software/gnu-c-manual/man.html

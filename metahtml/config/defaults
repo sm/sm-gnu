@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/metahtml
-#base_url=http://alpha.gnu.org/gnu/metahtml
+base_url=http://ftpmirror.gnu.org/metahtml ftp://ftp.gnu.org/gnu/metahtml
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/metahtml/
 docs_url=http://www.gnu.org/software/metahtml/man.html

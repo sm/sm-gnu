@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/mcron
-#base_url=http://alpha.gnu.org/gnu/mcron
+base_url=http://ftpmirror.gnu.org/mcron ftp://ftp.gnu.org/gnu/mcron
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/mcron/
 docs_url=http://www.gnu.org/software/mcron/man.html

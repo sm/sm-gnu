@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/stow
-#base_url=http://alpha.gnu.org/gnu/stow
+base_url=http://ftpmirror.gnu.org/stow ftp://ftp.gnu.org/gnu/stow
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/stow/
 docs_url=http://www.gnu.org/software/stow/man.html

@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/teseq
-#base_url=http://alpha.gnu.org/gnu/teseq
+base_url=http://ftpmirror.gnu.org/teseq ftp://ftp.gnu.org/gnu/teseq
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/teseq/
 docs_url=http://www.gnu.org/software/teseq/man.html

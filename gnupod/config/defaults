@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnupod
-#base_url=http://alpha.gnu.org/gnu/gnupod
+base_url=http://ftpmirror.gnu.org/gnupod ftp://ftp.gnu.org/gnu/gnupod
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gnupod/
 docs_url=http://www.gnu.org/software/gnupod/man.html

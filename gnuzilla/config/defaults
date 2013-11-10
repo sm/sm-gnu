@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnuzilla
-#base_url=http://alpha.gnu.org/gnu/gnuzilla
+base_url=http://ftpmirror.gnu.org/gnuzilla ftp://ftp.gnu.org/gnu/gnuzilla
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gnuzilla/
 docs_url=http://www.gnu.org/software/gnuzilla/man.html

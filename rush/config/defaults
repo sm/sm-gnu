@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/rush
-#base_url=http://alpha.gnu.org/gnu/rush
+base_url=http://ftpmirror.gnu.org/rush ftp://ftp.gnu.org/gnu/rush
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/rush/
 docs_url=http://www.gnu.org/software/rush/man.html

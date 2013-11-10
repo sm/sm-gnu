@@ -1,6 +1,5 @@
 version=5.11.1
-base_url=ftp://mirror.rit.edu/gnu/gnu/autogen
-#base_url=http://alpha.gnu.org/gnu/autogen
+base_url=http://ftpmirror.gnu.org/autogen ftp://ftp.gnu.org/gnu/autogen
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/autogen/
 docs_url=http://www.gnu.org/software/autogen/man.html

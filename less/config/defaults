@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/less
-#base_url=http://alpha.gnu.org/gnu/less
+base_url=http://ftpmirror.gnu.org/less ftp://ftp.gnu.org/gnu/less
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/less/
 docs_url=http://www.gnu.org/software/less/man.html

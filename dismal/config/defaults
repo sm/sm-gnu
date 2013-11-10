@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/dismal
-#base_url=http://alpha.gnu.org/gnu/dismal
+base_url=http://ftpmirror.gnu.org/dismal ftp://ftp.gnu.org/gnu/dismal
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/dismal/
 docs_url=http://www.gnu.org/software/dismal/man.html

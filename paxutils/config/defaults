@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/paxutils
-#base_url=http://alpha.gnu.org/gnu/paxutils
+base_url=http://ftpmirror.gnu.org/paxutils ftp://ftp.gnu.org/gnu/paxutils
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/paxutils/
 docs_url=http://www.gnu.org/software/paxutils/man.html

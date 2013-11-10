@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/spell
-#base_url=http://alpha.gnu.org/gnu/spell
+base_url=http://ftpmirror.gnu.org/spell ftp://ftp.gnu.org/gnu/spell
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/spell/
 docs_url=http://www.gnu.org/software/spell/man.html

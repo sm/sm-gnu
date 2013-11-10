@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/hurd
-#base_url=http://alpha.gnu.org/gnu/hurd
+base_url=http://ftpmirror.gnu.org/hurd ftp://ftp.gnu.org/gnu/hurd
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/hurd/
 docs_url=http://www.gnu.org/software/hurd/man.html

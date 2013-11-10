@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnulib
-#base_url=http://alpha.gnu.org/gnu/gnulib
+base_url=http://ftpmirror.gnu.org/gnulib ftp://ftp.gnu.org/gnu/gnulib
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gnulib/
 docs_url=http://www.gnu.org/software/gnulib/man.html

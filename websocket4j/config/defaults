@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/websocket4j
-#base_url=http://alpha.gnu.org/gnu/websocket4j
+base_url=http://ftpmirror.gnu.org/websocket4j ftp://ftp.gnu.org/gnu/websocket4j
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/websocket4j/
 docs_url=http://www.gnu.org/software/websocket4j/man.html

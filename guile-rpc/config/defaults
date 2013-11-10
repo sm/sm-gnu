@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/guile-rpc
-#base_url=http://alpha.gnu.org/gnu/guile-rpc
+base_url=http://ftpmirror.gnu.org/guile-rpc ftp://ftp.gnu.org/gnu/guile-rpc
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/guile-rpc/
 docs_url=http://www.gnu.org/software/guile-rpc/man.html

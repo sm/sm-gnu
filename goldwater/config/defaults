@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/goldwater
-#base_url=http://alpha.gnu.org/gnu/goldwater
+base_url=http://ftpmirror.gnu.org/goldwater ftp://ftp.gnu.org/gnu/goldwater
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/goldwater/
 docs_url=http://www.gnu.org/software/goldwater/man.html

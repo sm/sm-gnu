@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/rpge
-#base_url=http://alpha.gnu.org/gnu/rpge
+base_url=http://ftpmirror.gnu.org/rpge ftp://ftp.gnu.org/gnu/rpge
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/rpge/
 docs_url=http://www.gnu.org/software/rpge/man.html

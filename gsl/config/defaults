@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/gsl
-#base_url=http://alpha.gnu.org/gnu/gsl
+base_url=http://ftpmirror.gnu.org/gsl ftp://ftp.gnu.org/gnu/gsl
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gsl/
 docs_url=http://www.gnu.org/software/gsl/man.html

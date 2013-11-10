@@ -1,6 +1,5 @@
 version=6.5.5
-base_url=ftp://mirror.rit.edu/gnu/gnu/acct
-#base_url=http://alpha.gnu.org/gnu/acct
+base_url=http://ftpmirror.gnu.org/acct ftp://ftp.gnu.org/gnu/acct
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/acct/
 docs_url=http://www.gnu.org/software/acct/man.html

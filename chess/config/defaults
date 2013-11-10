@@ -1,6 +1,5 @@
 version=gnu6.0.0
-base_url=ftp://mirror.rit.edu/gnu/gnu/chess
-#base_url=http://alpha.gnu.org/gnu/chess
+base_url=http://ftpmirror.gnu.org/chess ftp://ftp.gnu.org/gnu/chess
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/chess/
 docs_url=http://www.gnu.org/software/chess/man.html

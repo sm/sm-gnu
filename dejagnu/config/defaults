@@ -1,6 +1,5 @@
 version=1.5
-base_url=ftp://mirror.rit.edu/gnu/gnu/dejagnu
-#base_url=http://alpha.gnu.org/gnu/dejagnu
+base_url=http://ftpmirror.gnu.org/dejagnu ftp://ftp.gnu.org/gnu/dejagnu
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/dejagnu/
 docs_url=http://www.gnu.org/software/dejagnu/man.html

@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/libxmi
-#base_url=http://alpha.gnu.org/gnu/libxmi
+base_url=http://ftpmirror.gnu.org/libxmi ftp://ftp.gnu.org/gnu/libxmi
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/libxmi/
 docs_url=http://www.gnu.org/software/libxmi/man.html

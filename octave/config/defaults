@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/octave
-#base_url=http://alpha.gnu.org/gnu/octave
+base_url=http://ftpmirror.gnu.org/octave ftp://ftp.gnu.org/gnu/octave
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/octave/
 docs_url=http://www.gnu.org/software/octave/man.html

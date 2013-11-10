@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/panorama
-#base_url=http://alpha.gnu.org/gnu/panorama
+base_url=http://ftpmirror.gnu.org/panorama ftp://ftp.gnu.org/gnu/panorama
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/panorama/
 docs_url=http://www.gnu.org/software/panorama/man.html

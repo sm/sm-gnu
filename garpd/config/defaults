@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/garpd
-#base_url=http://alpha.gnu.org/gnu/garpd
+base_url=http://ftpmirror.gnu.org/garpd ftp://ftp.gnu.org/gnu/garpd
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/garpd/
 docs_url=http://www.gnu.org/software/garpd/man.html

@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/powerguru
-#base_url=http://alpha.gnu.org/gnu/powerguru
+base_url=http://ftpmirror.gnu.org/powerguru ftp://ftp.gnu.org/gnu/powerguru
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/powerguru/
 docs_url=http://www.gnu.org/software/powerguru/man.html

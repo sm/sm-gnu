@@ -1,6 +1,5 @@
 version=1.06
-base_url=ftp://mirror.rit.edu/gnu/gnu/bc
-#base_url=http://alpha.gnu.org/gnu/bc
+base_url=http://ftpmirror.gnu.org/bc ftp://ftp.gnu.org/gnu/bc
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/bc/
 docs_url=http://www.gnu.org/software/bc/man.html

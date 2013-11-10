@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/dotgnu-pnet
-#base_url=http://alpha.gnu.org/gnu/dotgnu-pnet
+base_url=http://ftpmirror.gnu.org/dotgnu-pnet ftp://ftp.gnu.org/gnu/dotgnu-pnet
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/dotgnu-pnet/
 docs_url=http://www.gnu.org/software/dotgnu-pnet/man.html

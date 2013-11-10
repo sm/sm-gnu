@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnushogi
-#base_url=http://alpha.gnu.org/gnu/gnushogi
+base_url=http://ftpmirror.gnu.org/gnushogi ftp://ftp.gnu.org/gnu/gnushogi
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gnushogi/
 docs_url=http://www.gnu.org/software/gnushogi/man.html

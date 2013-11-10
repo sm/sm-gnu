@@ -1,6 +1,5 @@
 version=4.2.0
-base_url=ftp://mirror.rit.edu/gnu/gnu/ccscript
-#base_url=http://alpha.gnu.org/gnu/ccscript
+base_url=http://ftpmirror.gnu.org/ccscript ftp://ftp.gnu.org/gnu/ccscript
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/ccscript/
 docs_url=http://www.gnu.org/software/ccscript/man.html

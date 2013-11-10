@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/phpgroupware
-#base_url=http://alpha.gnu.org/gnu/phpgroupware
+base_url=http://ftpmirror.gnu.org/phpgroupware ftp://ftp.gnu.org/gnu/phpgroupware
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/phpgroupware/
 docs_url=http://www.gnu.org/software/phpgroupware/man.html

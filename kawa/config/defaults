@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/kawa
-#base_url=http://alpha.gnu.org/gnu/kawa
+base_url=http://ftpmirror.gnu.org/kawa ftp://ftp.gnu.org/gnu/kawa
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/kawa/
 docs_url=http://www.gnu.org/software/kawa/man.html

@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/gorm
-#base_url=http://alpha.gnu.org/gnu/gorm
+base_url=http://ftpmirror.gnu.org/gorm ftp://ftp.gnu.org/gnu/gorm
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gorm/
 docs_url=http://www.gnu.org/software/gorm/man.html

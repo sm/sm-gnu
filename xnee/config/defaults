@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/xnee
-#base_url=http://alpha.gnu.org/gnu/xnee
+base_url=http://ftpmirror.gnu.org/xnee ftp://ftp.gnu.org/gnu/xnee
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/xnee/
 docs_url=http://www.gnu.org/software/xnee/man.html

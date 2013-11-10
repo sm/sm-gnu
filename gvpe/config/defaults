@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/gvpe
-#base_url=http://alpha.gnu.org/gnu/gvpe
+base_url=http://ftpmirror.gnu.org/gvpe ftp://ftp.gnu.org/gnu/gvpe
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gvpe/
 docs_url=http://www.gnu.org/software/gvpe/man.html

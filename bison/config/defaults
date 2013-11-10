@@ -1,6 +1,5 @@
 version=2.5
-base_url=ftp://mirror.rit.edu/gnu/gnu/bison
-#base_url=http://alpha.gnu.org/gnu/bison
+base_url=http://ftpmirror.gnu.org/bison ftp://ftp.gnu.org/gnu/bison
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/bison/
 docs_url=http://www.gnu.org/software/bison/man.html

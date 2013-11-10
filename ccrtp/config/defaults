@@ -1,6 +1,5 @@
 version=2.0.1
-base_url=ftp://mirror.rit.edu/gnu/gnu/ccrtp
-#base_url=http://alpha.gnu.org/gnu/ccrtp
+base_url=http://ftpmirror.gnu.org/ccrtp ftp://ftp.gnu.org/gnu/ccrtp
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/ccrtp/
 docs_url=http://www.gnu.org/software/ccrtp/man.html

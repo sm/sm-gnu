@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/shmm
-#base_url=http://alpha.gnu.org/gnu/shmm
+base_url=http://ftpmirror.gnu.org/shmm ftp://ftp.gnu.org/gnu/shmm
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/shmm/
 docs_url=http://www.gnu.org/software/shmm/man.html

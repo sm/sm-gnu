@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/clisp
-#base_url=http://alpha.gnu.org/gnu/clisp
+base_url=http://ftpmirror.gnu.org/clisp ftp://ftp.gnu.org/gnu/clisp
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/clisp/
 docs_url=http://www.gnu.org/software/clisp/man.html

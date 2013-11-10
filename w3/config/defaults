@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/w3
-#base_url=http://alpha.gnu.org/gnu/w3
+base_url=http://ftpmirror.gnu.org/w3 ftp://ftp.gnu.org/gnu/w3
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/w3/
 docs_url=http://www.gnu.org/software/w3/man.html

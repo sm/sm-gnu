@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnubg
-#base_url=http://alpha.gnu.org/gnu/gnubg
+base_url=http://ftpmirror.gnu.org/gnubg ftp://ftp.gnu.org/gnu/gnubg
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gnubg/
 docs_url=http://www.gnu.org/software/gnubg/man.html

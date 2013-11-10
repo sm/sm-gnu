@@ -1,6 +1,5 @@
 version=2.4.2
-base_url=ftp://mirror.rit.edu/gnu/gnu/libtool
-#base_url=http://alpha.gnu.org/gnu/libtool
+base_url=http://ftpmirror.gnu.org/libtool ftp://ftp.gnu.org/gnu/libtool
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/libtool/
 docs_url=http://www.gnu.org/software/libtool/man.html

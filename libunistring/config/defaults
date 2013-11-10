@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/libunistring
-#base_url=http://alpha.gnu.org/gnu/libunistring
+base_url=http://ftpmirror.gnu.org/libunistring ftp://ftp.gnu.org/gnu/libunistring
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/libunistring/
 docs_url=http://www.gnu.org/software/libunistring/man.html

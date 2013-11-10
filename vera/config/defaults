@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/vera
-#base_url=http://alpha.gnu.org/gnu/vera
+base_url=http://ftpmirror.gnu.org/vera ftp://ftp.gnu.org/gnu/vera
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/vera/
 docs_url=http://www.gnu.org/software/vera/man.html

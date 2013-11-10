@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/glue
-#base_url=http://alpha.gnu.org/gnu/glue
+base_url=http://ftpmirror.gnu.org/glue ftp://ftp.gnu.org/gnu/glue
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/glue/
 docs_url=http://www.gnu.org/software/glue/man.html

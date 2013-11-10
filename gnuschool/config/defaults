@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnuschool
-#base_url=http://alpha.gnu.org/gnu/gnuschool
+base_url=http://ftpmirror.gnu.org/gnuschool ftp://ftp.gnu.org/gnu/gnuschool
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gnuschool/
 docs_url=http://www.gnu.org/software/gnuschool/man.html

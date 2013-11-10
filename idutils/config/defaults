@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/idutils
-#base_url=http://alpha.gnu.org/gnu/idutils
+base_url=http://ftpmirror.gnu.org/idutils ftp://ftp.gnu.org/gnu/idutils
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/idutils/
 docs_url=http://www.gnu.org/software/idutils/man.html

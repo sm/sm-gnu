@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/rcs
-#base_url=http://alpha.gnu.org/gnu/rcs
+base_url=http://ftpmirror.gnu.org/rcs ftp://ftp.gnu.org/gnu/rcs
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/rcs/
 docs_url=http://www.gnu.org/software/rcs/man.html

@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/intlfonts
-#base_url=http://alpha.gnu.org/gnu/intlfonts
+base_url=http://ftpmirror.gnu.org/intlfonts ftp://ftp.gnu.org/gnu/intlfonts
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/intlfonts/
 docs_url=http://www.gnu.org/software/intlfonts/man.html

@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/mcsim
-#base_url=http://alpha.gnu.org/gnu/mcsim
+base_url=http://ftpmirror.gnu.org/mcsim ftp://ftp.gnu.org/gnu/mcsim
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/mcsim/
 docs_url=http://www.gnu.org/software/mcsim/man.html

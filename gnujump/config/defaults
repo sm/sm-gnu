@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnujump
-#base_url=http://alpha.gnu.org/gnu/gnujump
+base_url=http://ftpmirror.gnu.org/gnujump ftp://ftp.gnu.org/gnu/gnujump
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gnujump/
 docs_url=http://www.gnu.org/software/gnujump/man.html

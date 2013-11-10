@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/gmediaserver
-#base_url=http://alpha.gnu.org/gnu/gmediaserver
+base_url=http://ftpmirror.gnu.org/gmediaserver ftp://ftp.gnu.org/gnu/gmediaserver
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gmediaserver/
 docs_url=http://www.gnu.org/software/gmediaserver/man.html

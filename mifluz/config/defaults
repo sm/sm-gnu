@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/mifluz
-#base_url=http://alpha.gnu.org/gnu/mifluz
+base_url=http://ftpmirror.gnu.org/mifluz ftp://ftp.gnu.org/gnu/mifluz
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/mifluz/
 docs_url=http://www.gnu.org/software/mifluz/man.html

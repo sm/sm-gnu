@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/jacal
-#base_url=http://alpha.gnu.org/gnu/jacal
+base_url=http://ftpmirror.gnu.org/jacal ftp://ftp.gnu.org/gnu/jacal
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/jacal/
 docs_url=http://www.gnu.org/software/jacal/man.html

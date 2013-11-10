@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/grabcomics
-#base_url=http://alpha.gnu.org/gnu/grabcomics
+base_url=http://ftpmirror.gnu.org/grabcomics ftp://ftp.gnu.org/gnu/grabcomics
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/grabcomics/
 docs_url=http://www.gnu.org/software/grabcomics/man.html

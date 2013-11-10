@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnusound
-#base_url=http://alpha.gnu.org/gnu/gnusound
+base_url=http://ftpmirror.gnu.org/gnusound ftp://ftp.gnu.org/gnu/gnusound
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gnusound/
 docs_url=http://www.gnu.org/software/gnusound/man.html

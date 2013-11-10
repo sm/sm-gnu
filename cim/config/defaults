@@ -1,6 +1,5 @@
 version=3.30
-base_url=ftp://mirror.rit.edu/gnu/gnu/cim
-#base_url=http://alpha.gnu.org/gnu/cim
+base_url=http://ftpmirror.gnu.org/cim ftp://ftp.gnu.org/gnu/cim
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/cim/
 docs_url=http://www.gnu.org/software/cim/man.html

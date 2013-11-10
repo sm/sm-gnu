@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/mtools
-#base_url=http://alpha.gnu.org/gnu/mtools
+base_url=http://ftpmirror.gnu.org/mtools ftp://ftp.gnu.org/gnu/mtools
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/mtools/
 docs_url=http://www.gnu.org/software/mtools/man.html

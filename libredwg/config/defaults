@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/libredwg
-#base_url=http://alpha.gnu.org/gnu/libredwg
+base_url=http://ftpmirror.gnu.org/libredwg ftp://ftp.gnu.org/gnu/libredwg
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/libredwg/
 docs_url=http://www.gnu.org/software/libredwg/man.html

@@ -1,5 +1,5 @@
 version=4.6.1
-base_url=ftp://mirror.rit.edu/gnu/gnu/gcc
+base_url=http://ftpmirror.gnu.org/gcc ftp://ftp.gnu.org/gnu/gcc
 archive_format=tar.bz2
 website_url=http://www.gnu.org/software/gcc/
 docs_url=http://www.gnu.org/software/gcc/man.html

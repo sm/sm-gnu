@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/parted
-#base_url=http://alpha.gnu.org/gnu/parted
+base_url=http://ftpmirror.gnu.org/parted ftp://ftp.gnu.org/gnu/parted
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/parted/
 docs_url=http://www.gnu.org/software/parted/man.html

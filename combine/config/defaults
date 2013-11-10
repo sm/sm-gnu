@@ -1,6 +1,5 @@
 version=0.3.4
-base_url=ftp://mirror.rit.edu/gnu/gnu/combine
-#base_url=http://alpha.gnu.org/gnu/combine
+base_url=http://ftpmirror.gnu.org/combine ftp://ftp.gnu.org/gnu/combine
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/combine/
 docs_url=http://www.gnu.org/software/combine/man.html

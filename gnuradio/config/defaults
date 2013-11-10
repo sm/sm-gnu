@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnuradio
-#base_url=http://alpha.gnu.org/gnu/gnuradio
+base_url=http://ftpmirror.gnu.org/gnuradio ftp://ftp.gnu.org/gnu/gnuradio
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gnuradio/
 docs_url=http://www.gnu.org/software/gnuradio/man.html

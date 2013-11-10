@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/hello
-#base_url=http://alpha.gnu.org/gnu/hello
+base_url=http://ftpmirror.gnu.org/hello ftp://ftp.gnu.org/gnu/hello
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/hello/
 docs_url=http://www.gnu.org/software/hello/man.html

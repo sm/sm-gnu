@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/ed
-#base_url=http://alpha.gnu.org/gnu/ed
+base_url=http://ftpmirror.gnu.org/ed ftp://ftp.gnu.org/gnu/ed
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/ed/
 docs_url=http://www.gnu.org/software/ed/man.html

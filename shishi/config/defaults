@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/shishi
-#base_url=http://alpha.gnu.org/gnu/shishi
+base_url=http://ftpmirror.gnu.org/shishi ftp://ftp.gnu.org/gnu/shishi
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/shishi/
 docs_url=http://www.gnu.org/software/shishi/man.html

@@ -1,6 +1,5 @@
 version=
-base_url=ftp://mirror.rit.edu/gnu/gnu/packaging
-#base_url=http://alpha.gnu.org/gnu/packaging
+base_url=http://ftpmirror.gnu.org/packaging ftp://ftp.gnu.org/gnu/packaging
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/packaging/
 docs_url=http://www.gnu.org/software/packaging/man.html
