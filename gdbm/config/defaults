@@ -1,4 +1,4 @@
-version=1.10
+version=1.11
 base_url=ftp://ftp.gnu.org/gnu/gdbm/
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/gdbm/
