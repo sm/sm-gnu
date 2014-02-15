@@ -1,0 +1,31 @@
+#!/bin/sh
+
+ncurses_patch()
+{
+  if os is darwin
+  then
+    _paths=(
+      "${extension_patches_path}"
+      "${extension_patches_path}/$(__sm.os.type)"
+      "${extension_patches_path}/$(__sm.os.type)/${package_version}"
+   )
+
+  for _path in "${_paths[@]}"
+  do
+    paths exists "${_path}" || continue # No patch path
+
+    _patches=( ${_path}/*.patch ${_path}/*.diff )
+    if (( ${#_patches[@]} ))
+    then
+      for _patch in "${_patches[@]}"
+      do
+        [[ -f "${_patch}" && -s "${_patch}" ]] || continue
+        patch -F 3 -p 0 -N -f < ${_patch} > patch.install.log 2>&1 ||
+          __sm.package.error \
+            "Patching of ${package_name} ${package_version} with ${_patch} failed! " \
+            "$PWD/patch.install.log"
+      done
+    fi
+  done
+  fi
+}
