@@ -2,5 +2,5 @@
 
 libtool_preconfigure()
 {
-  autoreconf
+  autoreconf --verbose --install --force --exclude=libtoolize
 }
