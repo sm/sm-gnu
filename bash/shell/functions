@@ -6,7 +6,7 @@ bash_patch() {
   for _patch in ${_patches[@]}
   do 
     echo -n "${_patch}: "
-    curl -s "https://ftp.gnu.org/gnu/bash/bash-${package_version}-patches/${_patch}" | patch -p0
+    curl -s "ftp://ftp.gnu.org/gnu/bash/bash-${package_version}-patches/${_patch}" | patch -p0
   done
 }
 
