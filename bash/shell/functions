@@ -1,12 +1,12 @@
 #!/bin/sh
 
 bash_patch() {
-  local _patch _patches
+  local -a _patches
+  local _patch
   _patches=($(curl -s "ftp://ftp.gnu.org/gnu/bash/bash-${package_version}-patches/" | awk '!/sig/{print $NF}' | sort))
   for _patch in ${_patches[@]}
-  do 
-    echo "${_patch}: "
-    curl -s "ftp://ftp.gnu.org/gnu/bash/bash-${package_version}-patches/${_patch}" | patch -p0
+  do
+    echo "${_patch}:"
+    curl -s "https://ftp.gnu.org/gnu/bash/bash-${package_version}-patches/${_patch}" | patch -p0
   done
 }
-
