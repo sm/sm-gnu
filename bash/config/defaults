@@ -1,4 +1,4 @@
-version=doc-3.2
+version=4.3
 base_url=http://ftpmirror.gnu.org/bash ftp://ftp.gnu.org/gnu/bash
 archive_format=tar.gz
 website_url=http://www.gnu.org/software/bash/
