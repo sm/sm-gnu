@@ -5,7 +5,7 @@ bash_patch() {
   _patches=($(curl -s "ftp://ftp.gnu.org/gnu/bash/bash-${package_version}-patches/" | awk '!/sig/{print $NF}' | sort))
   for _patch in ${_patches[@]}
   do 
-    echo -n "${_patch}: "
+    echo "${_patch}: "
     curl -s "ftp://ftp.gnu.org/gnu/bash/bash-${package_version}-patches/${_patch}" | patch -p0
   done
 }
